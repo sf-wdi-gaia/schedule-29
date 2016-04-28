@@ -113,11 +113,11 @@ Time |Day 1                                      | Day 2                        
 
 #### Daily Schedule Overview
 
-Time | Monday - Wednesday | Thursday | Friday |
------ | -------- | ----- | ----- |
-9:17 | Module 1 | Module 1 | Review
-10:45 | Module 2 | Module 2 | Outcomes
-12:30 | Lunch | Lunch | Lunch
-1:30 | Module 3 | *Outcomes* | Review
-3:00 | Module 4 | Module 3 | Begin Weekend Lab
-4:30 | One-on-ones | One-on-ones |
+Time  | Monday - Thursday  | Friday 
+----- | ------------------ | -----  
+9:17  | Module 1           | Review
+10:45 | Module 2           | Outcomes
+12:30 | Lunch              | Lunch
+1:30  | Module 3           | Review
+3:00  | Module 4           | Begin Weekend Lab
+4:30  | One-on-ones        | One-on-ones
