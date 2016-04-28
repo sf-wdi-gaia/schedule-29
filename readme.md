@@ -1,6 +1,6 @@
 
 ## Unit 1: The Frontend
-
+<!--
 #### Week 3 - Project 1:  Browser Games
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
@@ -75,7 +75,7 @@ Time |Day 1                                      | Day 2                        
 [2-5B]: # "Review"
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
 [2-5D]: # " "
-[2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
+[2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue" -->
 
 #### Week 1 - Fundamentals and Tools
 
