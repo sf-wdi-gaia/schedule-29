@@ -5,13 +5,13 @@
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
-**9:17am Module 1** | Review Homework (Alex)| [Binary Search (Ben)][3-2A]  | [Bubble Sort (Alex)][3-3A] |[ Merge Sort (Ilias)][3-4A] | [Presentations] [3-5A]
+**9:17am Module 1** | Review Training (Alex)| [Binary Search (Ben)][3-2A]  | [Bubble Sort (Alex)][3-3A] |[ Merge Sort (Ilias)][3-4A] | [Presentations] [3-5A]
  **10:45am Module 2** |[SASS/CSS preprocessors (Ben) ][3-1B]| [Project 1][3-2B]  | [Project 1][3-3B] | [Project 1][3-4B]| [Presentations] [3-5B]
 **1:30pm Module 3** |[Agile development, wireframes, and user stories (Alex)] [3-1C]| [Project 1][3-2C]  | [Project 1][3-3C] | [Outcomes][3-4C] |  [Review][3-5C]
 **3:00pm Module 4** | [Project 1 Specs][3-1D] |  [Project 1][3-2D]|  [Project 1][3-3D]|  [Project 1][3-4D]| [Happy Hour][3-5D]
-**Homework** | Project 1 | Project 1 | Project 1 | Project 1 | [Ruby Intro and Fix an Issue][3-5E]
+**Training** | Project 1 | Project 1 | Project 1 | Project 1 | [Ruby Intro and Fix an Issue][3-5E]
 
-[3-1A]: # "Review Homework"
+[3-1A]: # "Review Training"
 [3-1B]: w03/d01/m2-sass/ "SASS Lesson"
 [3-1C]: w03/d01/m3-agile/ "Agile development, wireframes, and user stories"
 [3-1D]: w03/d01/m4-project-1-specs "Project Management"
@@ -35,7 +35,7 @@ Time | Day 1                                      | Day 2                       
 [3-5B]: # "Presentations"
 [3-5C]: # "Review"
 [3-5D]: # "Happy Hour"
-[3-5E]: w03/d05/hmwk-ruby-prep "Homework: tryruby.org Lessons 1 - 2"
+[3-5E]: w03/d05/hmwk-ruby-prep "Training: tryruby.org Lessons 1 - 2"
 
 #### Week 2 - jQuery and Bootstrap
 
@@ -45,7 +45,7 @@ Time |Day 1                                      | Day 2                        
  **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Lab: JavaScript calculator (Dani)][2-2B]  |    [Intermediate jQuery (Alex)][2-3B]                     |    [More Practice(Ben)][2-4B]    | [Review (TEAM)][2-5B]
 **1:30pm Module 3** |[Callbacks (Ilias)][2-1C]                          |   [Responsive CSS(Ben)][2-2C] |    [Bootstrap intro(Ilias)][2-3C]     |        Outcomes     | [Review (TEAM)][2-5B]
 **3:00pm Module 4** | [Lab: Practicing callbacks (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Lab: Forms + JQuery (Ben)][2-3D] |  [Ajax lesson (Ilias)][2-4C]  | [Create an Issue (Alex)][2-5C]|
-**Homework** |[Brett Victor: Inventing on Principle][2-1E] | [MicroBlog (Alex)][2-2E]  |  [Microblog Bootstrap Refactor][2-3E] | [Lab: Ajax (Ilias)][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
+**Training** |[Brett Victor: Inventing on Principle][2-1E] | [MicroBlog (Alex)][2-2E]  |  [Microblog Bootstrap Refactor][2-3E] | [Lab: Ajax (Ilias)][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
 
 [2-1A]: w02/d01/m1-gh-branching-and-pages/ "Git and GitHub Branching and Pages"
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
@@ -85,7 +85,7 @@ Time |Day 1                                      | Day 2                        
  **10:45am Module 2** | [Your learning experience (TEAM, Ali lead)][1-1B]    |     [CSS selector basics (Ben)][1-2B]       |      [JavaScript objects (Ben)][1-3B]          |  [Debugging in JavaScript (Alex)][1-4A]| Outcomes  
  **1:30pm Module 3** | [How the internet works (Ilias)][1-1C]     |  [Box model and positioning (Ben)][1-2C]  |    [Functions and scope (Ilias)][1-3C]   |[DOM manipulation and events (Ilias)][1-4B]  | Review ()
 **3:00pm Module 4** | [Navigating the file system + some meta skills (Alex)][1-1D]       |    [Lab: CSS website replication (Alex)][1-2D]          |   [Lab: JavaScript functions (Ilias)][1-3D]   | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |       [Lab: Tic-Tac-Toe (Alex) ][1-4E]       
-**Homework** | [Lab: Command line (Alex)][1-1E]    | [Lab: Build a website (Alex)][1-2E]| Finish Lab  | Finish Lab|  Finish Lab  
+**Training** | [Lab: Command line (Alex)][1-1E]    | [Lab: Build a website (Alex)][1-2E]| Finish Lab  | Finish Lab|  Finish Lab  
 
 [1-1A]: # "Ice Breakers"
 [1-1B]: # "Your Learning Experience"
@@ -113,7 +113,7 @@ Time |Day 1                                      | Day 2                        
 
 #### Daily Schedule Overview
 
-Time  | Monday - Thursday  | Friday 
+Time  | Monday - Thursday  | Friday
 ----- | ------------------ | -----  
 9:17  | Module 1           | Review
 10:45 | Module 2           | Outcomes
