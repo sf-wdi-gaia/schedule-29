@@ -89,7 +89,7 @@ Time |Day 1                                      | Day 2                        
 
 [1-1A]: # "Ice Breakers"
 [1-1B]: # "Your Learning Experience"
-[1-1C]: w01/d01/m3-how-the-internet-works/readme.md "How the Internet Works"
+[1-1C]: https://github.com/sf-wdi-29/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-29/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
 [1-1E]: w01/d01/hw-command-line-lab "Lab: Command Line"
 
