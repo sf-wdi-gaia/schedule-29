@@ -81,14 +81,12 @@ Time |Day 1                                      | Day 2                        
 
  Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:17am Module 1** | [Ice breakers][1-1A]   |  [Chrome dev tools (Ilias)][1-2A]                                           |    [JS Data types, variables, and arrays (Ben)][1-3A]     |  [Mastering control flow (Alex)][1-4D]   | Review ()  
- **10:45am Module 2** | [Your learning experience (TEAM, Ali lead)][1-1B]    |     [CSS selector basics (Ben)][1-2B]       |      [JavaScript objects (Ben)][1-3B]          |  [Debugging in JavaScript (Alex)][1-4A]| Outcomes  
+ **9:17am Module 1** | Ice breakers   |  [Chrome dev tools (Ilias)][1-2A]                                           |    [JS Data types, variables, and arrays (Ben)][1-3A]     |  [Mastering control flow (Alex)][1-4D]   | Review ()  
+ **10:45am Module 2** | Your learning experience (TEAM, Ali lead)    |     [CSS selector basics (Ben)][1-2B]       |      [JavaScript objects (Ben)][1-3B]          |  [Debugging in JavaScript (Alex)][1-4A]| Outcomes  
  **1:30pm Module 3** | [How the internet works (Ilias)][1-1C]     |  [Box model and positioning (Ben)][1-2C]  |    [Functions and scope (Ilias)][1-3C]   |[DOM manipulation and events (Ilias)][1-4B]  | Review ()
 **3:00pm Module 4** | [Navigating the file system + some meta skills (Alex)][1-1D]       |    [Lab: CSS website replication (Alex)][1-2D]          |   [Lab: JavaScript functions (Ilias)][1-3D]   | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |       [Lab: Tic-Tac-Toe (Alex) ][1-4E]       
 **Training** | [Lab: Command line (Alex)][1-1E]    | [Lab: Build a website (Alex)][1-2E]| Finish Lab  | Finish Lab|  Finish Lab  
 
-[1-1A]: # "Ice Breakers"
-[1-1B]: # "Your Learning Experience"
 [1-1C]: https://github.com/sf-wdi-29/how-the-internet-works "How the Internet Works"
 [1-1D]: https://github.com/sf-wdi-29/Terminal-Basics-Navigating-the-Filesystem/blob/master/readme.md "Navigating the File System"
 [1-1E]: w01/d01/hw-command-line-lab "Lab: Command Line"
