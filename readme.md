@@ -96,7 +96,7 @@ Time |Day 1                                      | Day 2                        
 [1-2A]: w01/d02/m1-chrome-dev-tools "Chrome Dev Tools"
 [1-2B]: w01/d02/m2-css-selector-basics "CSS Selector Basics"
 [1-2C]: w01/d02/m3-box-model-and-positioning "Box Model and Positioning"
-[1-2D]: w01/d02/m4-CSS-lab "Lab:  CSS website replication"
+[1-2D]: https://github.com/sf-wdi-29/m4-CSS-lab "Lab: CSS website replication"
 [1-2E]: w01/d02/hw-website-lab "Lab: Build a website"
 
 [1-3A]: w01/d03/m1-js-data-types-variables-and-arrays "Data types, Variables and Arrays"
