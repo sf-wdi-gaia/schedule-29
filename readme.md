@@ -118,4 +118,4 @@ Time  | Monday - Thursday  | Friday
 12:30 | Lunch              | Lunch
 1:30  | Module 3           | Review
 3:00  | Module 4           | Begin Weekend Lab
-4:30  | One-on-ones        | One-on-ones
+4:30  | One-on-ones        | Rest
