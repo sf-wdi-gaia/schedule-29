@@ -99,7 +99,7 @@ Time |Day 1                                      | Day 2                        
 
 [1-3A]: w01/d03/m1-js-data-types-variables-and-arrays "Data types, Variables and Arrays"
 [1-3B]: w01/d03/m2-javascript-objects "JavaScript Objects"
-[1-3C]: w01/d03/m3-functions-scope "Functions and Scope"
+[1-3C]: https://github.com/sf-wdi-29/js-functions-and-scope "Functions and Scope"
 [1-3D]: w01/d03/m4-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
