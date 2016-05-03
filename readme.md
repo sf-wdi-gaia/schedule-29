@@ -92,8 +92,8 @@ Time |Day 1                                      | Day 2                        
 [1-1E]: https://github.com/sf-wdi-29/command-line-lab "Lab: Command Line"
 
 [1-2A]: https://github.com/sf-wdi-29/chrome-dev-tools "Chrome Dev Tools"
-[1-2B]: w01/d02/m2-css-selector-basics "CSS Selector Basics"
-[1-2C]: w01/d02/m3-box-model-and-positioning "Box Model and Positioning"
+[1-2B]: https://github.com/sf-wdi-29/css-selector-basics "CSS Selector Basics"
+[1-2C]: https://github.com/sf-wdi-29/css-box-model-and-positioning "Box Model and Positioning"
 [1-2D]: https://github.com/sf-wdi-29/m4-CSS-lab "Lab: CSS website replication"
 [1-2E]: https://github.com/sf-wdi-29/build-a-website "Lab: Build a website"
 
