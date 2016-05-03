@@ -37,7 +37,7 @@ Time | Day 1                                      | Day 2                       
 [3-5D]: # "Happy Hour"
 [3-5E]: w03/d05/hmwk-ruby-prep "Training: tryruby.org Lessons 1 - 2"
 
-#### Week 2 - jQuery and Bootstrap
+#### Week 2 - JavaScript & Front-end Tools
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
