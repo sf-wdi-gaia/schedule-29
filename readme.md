@@ -104,7 +104,7 @@ Time |Day 1                                      | Day 2                        
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
 [1-4A]: https://github.com/sf-wdi-29/control-flow "Mastering Control Flow"
-[1-4B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
+[1-4B]: https://github.com/sf-wdi-29/dom-manipulation-and-events "DOM Manipulation and Events"
 [1-4C]: w01/d04/m3-LoTR-lab "Lab: DOM Manipulation LoTR"
 [1-4D]: w01/d04/m4-control-flow "Mastering Control Flow"
 [1-4E]: w01/d04/hw-tic-tac-toe-lab "Lab: Tic-Tac-Toe"
