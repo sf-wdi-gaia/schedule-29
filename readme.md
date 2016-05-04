@@ -97,8 +97,8 @@ Time |Day 1                                      | Day 2                        
 [1-2D]: https://github.com/sf-wdi-29/m4-CSS-lab "Lab: CSS website replication"
 [1-2E]: https://github.com/sf-wdi-29/build-a-website "Lab: Build a website"
 
-[1-3A]: w01/d03/m1-js-data-types-variables-and-arrays "Data types, Variables and Arrays"
-[1-3B]: w01/d03/m2-javascript-objects "JavaScript Objects"
+[1-3A]: https://github.com/sf-wdi-29/js-data-types "Data types, Variables and Arrays"
+[1-3B]: https://github.com/sf-wdi-29/js-objects "JavaScript Objects"
 [1-3C]: https://github.com/sf-wdi-29/js-functions-and-scope "Functions and Scope"
 [1-3D]: https://github.com/sf-wdi-29/js-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
