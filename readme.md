@@ -103,7 +103,7 @@ Time |Day 1                                      | Day 2                        
 [1-3D]: https://github.com/sf-wdi-29/js-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
 
-[1-4A]: https://github.com/sf-wdi-29/control-flow "Mastering Control Flow"
+[1-4A]: https://github.com/sf-wdi-26/debugging-javascript "Debugging Javascript"
 [1-4B]: https://github.com/sf-wdi-29/dom-manipulation-and-events "DOM Manipulation and Events"
 [1-4C]: https://github.com/sf-wdi-29/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
 [1-4D]: w01/d04/m4-control-flow "Mastering Control Flow"
