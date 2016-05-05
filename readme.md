@@ -107,7 +107,7 @@ Time |Day 1                                      | Day 2                        
 [1-4B]: https://github.com/sf-wdi-29/debugging-javascript "Debugging in JS"
 [1-4C]: https://github.com/sf-wdi-29/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4D]: https://github.com/sf-wdi-29/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
-[1-4E]: w01/d04/hw-tic-tac-toe-lab "Lab: Tic-Tac-Toe"
+[1-4E]: https://github.com/sf-wdi-29/tic-tac-toe"Lab: Tic-Tac-Toe"
 
 #### Daily Schedule Overview
 
