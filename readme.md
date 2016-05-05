@@ -84,7 +84,7 @@ Time |Day 1                                      | Day 2                        
  **9:17am Module 1** | Orientation |  [Chrome dev tools (Ilias)][1-2A]                                           |    [JS Data types, variables, and arrays (Ben)][1-3A]     |  [Mastering control flow (Alex)][1-4A]   | Review  
  **10:45am Module 2** | Icebreakers (Annabelle)   |     [CSS selector basics (Ben)][1-2B]       |      [JavaScript objects (Ben)][1-3B]          |  [Debugging in JavaScript (Alex)][1-4B]| Outcomes  
  **1:30pm Module 3** | [How the internet works (Ilias)][1-1C]     |  [Box model and positioning (Ben)][1-2C]  |    [Functions and scope (Ilias)][1-3C]   |[DOM manipulation and events (Ilias)][1-4C]  | Review
-**3:00pm Module 4** | [Navigating the file system + some meta skills (Alex)][1-1D]       |    [Lab: CSS website replication (Alex)][1-2D]          |   [Lab: JavaScript functions (Ilias)][1-3D]   | [Lab: DOM manipulation LoTR (Ilias)][1-4D]     |       [Lab: Tic-Tac-Toe (Alex) ][1-4E]       
+**3:00pm Module 4** | [Navigating the file system + some meta skills (Alex)][1-1D]       |    [Lab: CSS website replication (Alex)][1-2D]          |   [Lab: JavaScript functions (Ilias)][1-3D]   | [Lab: DOM manipulation LoTR (Ilias)][1-4D]     |    [Lab: Tic-Tac-Toe (Alex) ][1-4E]       
 **Training** | [Lab: Command line (Alex)][1-1E]    | [Lab: Build a website (Alex)][1-2E]| Finish Lab  | Finish Lab|  Finish Lab  
 
 [1-1C]: https://github.com/sf-wdi-29/how-the-internet-works "How the Internet Works"
@@ -107,7 +107,7 @@ Time |Day 1                                      | Day 2                        
 [1-4B]: https://github.com/sf-wdi-29/debugging-javascript "Debugging in JS"
 [1-4C]: https://github.com/sf-wdi-29/dom-manipulation-and-events "DOM Manipulation & Events"
 [1-4D]: https://github.com/sf-wdi-29/dom-manipulation-lotr-lab "Lab: DOM Manipulation LoTR"
-[1-4E]: https://github.com/sf-wdi-29/tic-tac-toe"Lab: Tic-Tac-Toe"
+[1-4E]: https://github.com/sf-wdi-29/tic-tac-toe "Lab: Tic-Tac-Toe"
 
 #### Daily Schedule Overview
 
