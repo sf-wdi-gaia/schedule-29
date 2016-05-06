@@ -37,45 +37,47 @@ Time | Day 1                                      | Day 2                       
 [3-5D]: # "Happy Hour"
 [3-5E]: w03/d05/hmwk-ruby-prep "Training: tryruby.org Lessons 1 - 2"
 
+-->
+
 #### Week 2 - JavaScript & Front-end Libraries
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:17am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [Lab: JavaScript calculator (Dani)][2-2A]                |  [Intro to jQuery (Alex)][2-3A]       |      [JS Prototypes(Ben)][2-4A]     | [Flower Power OOP Lab (Ilias)][2-5A]
- **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Lab: JavaScript calculator (Dani)][2-2B]  |    [Intermediate jQuery (Alex)][2-3B]                     |    [More Practice(Ben)][2-4B]    | [Review (TEAM)][2-5B]
-**1:30pm Module 3** |[Callbacks (Ilias)][2-1C]                          |   [Responsive CSS(Ben)][2-2C] |    [Bootstrap intro(Ilias)][2-3C]     |        Outcomes     | [Review (TEAM)][2-5B]
-**3:00pm Module 4** | [Lab: Practicing callbacks (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Lab: Forms + JQuery (Ben)][2-3D] |  [Ajax lesson (Ilias)][2-4C]  | [Create an Issue (Alex)][2-5C]|
-**Training** |[Brett Victor: Inventing on Principle][2-1E] | [MicroBlog (Alex)][2-2E]  |  [Microblog Bootstrap Refactor][2-3E] | [Lab: Ajax (Ilias)][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
+ **9:17am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [Responsive CSS & Flexbox (Ben)][2-2A]                |  [AJAX & API's with jQuery (Alex)][2-3A]       |      [OOP Lesson (Ilias)][2-4A]     | [Review (Ben)][2-5A]
+ **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Intro to Bootstrap (Ilias)][2-2B]  |    [Handlebars Templating (Alex)][2-3B]                     |    [Flower Power OOP Lab (Ilias)][2-4B]    | [OUTCOMES][2-5B]
+**1:30pm Module 3** |[Callbacks (Ilias)][2-1C]                          |   [jQuery & Browser Storage (Ben)][2-2C] |    [Google Maps API (Ben)][2-3C]     |        [OOP Game - helper methods (Ben)][2-4C]     | [Review (Ilias)][2-5B]
+**3:00pm Module 4** | [Lab: Practicing callbacks (Ilias)][2-1D]                 |  [HTML Forms w/ jQuery (Ilias)][2-2D]  | [Lab: Geoquakes (Ben)][2-3D] |  [OOP Refactor Tic-Tac-Toe (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
+**Training** |[Lab: JavaScript calculator (Ilias)][2-1E] | [MicroBlog (Alex)][2-2E]  |  [OOP Prep (reading)][2-3E] | [OOP Refactor Tic-Tac-Toe cont'd][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
 
-[2-1A]: w02/d01/m1-gh-branching-and-pages/ "Git and GitHub Branching and Pages"
-[2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
-[2-1C]: w02/d01/m3-callbacks/ "Callbacks"
-[2-1D]: w02/d01/m4-building-iterators/ "Callbacks lab"
-[2-1E]: https://vimeo.com/36579366 "Brett Victor on Vimeo"
+[2-1A]: # "Git and GitHub Branching and Pages"
+[2-1B]: # "Git and GitHub lab"
+[2-1C]: # "Callbacks"
+[2-1D]: # "Callbacks lab"
+[2-1E]: # "JavaScript Calculator"
 
-[2-2A]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
-[2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
-[2-2C]: w02/d02/m3-css-responsive-design/ "Responsive CSS"
-[2-2D]: w02/d02/m4-html-forms "HTML Forms"
-[2-2E]: w02/d02/hmwk-microblog/ "Microblog Lab"
+[2-2A]: https://github.com/sf-wdi-29/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
+[2-2B]: # "Intro to Bootstrap"
+[2-2C]: # "jQuery and Browser Storage"
+[2-2D]: # "HTML Forms"
+[2-2E]: # "Microblog Lab"
 
-[2-3A]: w02/d03/m1-intro-jquery/ "Intro to jQuery"
-[2-3B]: w02/d03/m2-intermediate-jquery/ "Intermediate jQuery"
-[2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
-[2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
-[2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
+[2-3A]: # "AJAX & APIs with jQuery"
+[2-3B]: # "Handlebars Templating"
+[2-3C]: # "Google Maps API"
+[2-3D]: # "Geoquakes Lab"
+[2-3E]: # "OOP Prep"
 
-[2-4A]: w02/d04/m1-js-prototypes "JS Prototypes"
-[2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
-[2-4C]: w02/d04/m3-ajax/ "AJAX"
-[2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
-[2-4E]: # " "
+[2-4A]: # "OOP Lesson"
+[2-4B]: # "Flower Power OOP Lab"
+[2-4C]: # "OOP Game"
+[2-4D]: # "OOP Refactor"
+[2-4E]: # "OOP Refactor (cont'd)"
 
-[2-5A]: w02/d05/m1-OOP-flower-lab/ "Flower Power OOP Lab"
-[2-5B]: # "Review"
-[2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
-[2-5D]: # " "
-[2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue" -->
+[2-5A]: # "Review"
+[2-5B]: # "Outcomes"
+[2-5C]: # "Review"
+[2-5D]: # "Create an Issue"
+[2-5E]: # "Fix an Issue"
 
 #### Week 1 - Fundamentals and Tools
 
