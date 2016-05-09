@@ -51,7 +51,7 @@ Time |Day 1                                      | Day 2                        
 
 [2-1A]: https://github.com/sf-wdi-29/git-and-github "Git and GitHub Branching and Pages"
 [2-1B]: https://github.com/awhit012/gh-lab "Git and GitHub lab"
-[2-1C]: # "Callbacks"
+[2-1C]: https://github.com/sf-wdi-29/js-callbacks "Callbacks"
 [2-1D]: # "Callbacks lab"
 [2-1E]: # "JavaScript Calculator"
 
