@@ -49,8 +49,8 @@ Time |Day 1                                      | Day 2                        
 **3:00pm Module 4** | [Lab: Practicing callbacks (Ilias)][2-1D]                 |  [HTML Forms w/ jQuery (Ilias)][2-2D]  | [Lab: Geoquakes (Ben)][2-3D] |  [OOP Refactor Tic-Tac-Toe (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
 **Training** |[Lab: JavaScript calculator (Ilias)][2-1E] | [MicroBlog (Alex)][2-2E]  |  [OOP Prep (reading)][2-3E] | [OOP Refactor Tic-Tac-Toe cont'd][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
 
-[2-1A]: # "Git and GitHub Branching and Pages"
-[2-1B]: # "Git and GitHub lab"
+[2-1A]: https://github.com/sf-wdi-29/git-and-github "Git and GitHub Branching and Pages"
+[2-1B]: https://github.com/awhit012/gh-lab "Git and GitHub lab"
 [2-1C]: # "Callbacks"
 [2-1D]: # "Callbacks lab"
 [2-1E]: # "JavaScript Calculator"
