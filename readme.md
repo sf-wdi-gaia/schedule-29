@@ -58,7 +58,7 @@ Time |Day 1                                      | Day 2                        
 [2-2A]: https://github.com/sf-wdi-29/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
 [2-2B]: # "Intro to Bootstrap"
 [2-2C]: # "jQuery and Browser Storage"
-[2-2D]: # "HTML Forms"
+[2-2D]: https://github.com/sf-wdi-29/html-forms "HTML Forms"
 [2-2E]: # "Microblog Lab"
 
 [2-3A]: # "AJAX & APIs with jQuery"
