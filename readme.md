@@ -47,7 +47,7 @@ Time |Day 1                                      | Day 2                        
  **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Responsive CSS & Flexbox (Ben)][2-2B]  |    [Handlebars Templating (Alex)][2-3B]                     |    [Flower Power OOP Lab (Ilias)][2-4B]    | [OUTCOMES][2-5B]
 **1:30pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [Intro to Bootstrap (Ilias)][2-2C] |    [Google Maps API (Ben)][2-3C]     |        [OOP Game - helper methods (Ben)][2-4C]     | [Review (Ilias)][2-5B]
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Lab: Geoquakes (Ben)][2-3D] |  [OOP Refactor Tic-Tac-Toe (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
-**Training** |[Building Iterators (Ilias)][2-1E] | [MicroBlog (Alex)][2-2E]  |  [OOP Reading (Ilias)][2-3E] | [OOP Refactor Tic-Tac-Toe cont'd][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
+**Training** |[Building Iterators (Ilias)][2-1E] | [More jQuery Practice (Ben)][2-2E]  |  [OOP Reading (Ilias)][2-3E] | [OOP Refactor Tic-Tac-Toe cont'd][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
 
 [2-1A]: https://github.com/sf-wdi-29/git-and-github "Git and GitHub Branching and Pages"
 [2-1B]: https://github.com/awhit012/gh-lab "Git and GitHub lab"
@@ -59,7 +59,7 @@ Time |Day 1                                      | Day 2                        
 [2-2B]: https://github.com/sf-wdi-29/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
 [2-2C]: https://github.com/sf-wdi-29/bootstrap "Intro to Bootstrap"
 [2-2D]: https://github.com/sf-wdi-29/html-forms "HTML Forms"
-[2-2E]: # "Microblog Lab"
+[2-2E]: https://github.com/sf-wdi-29/jquery-datepicker-lab "More jQuery Practice"
 
 [2-3A]: # "AJAX & APIs with jQuery"
 [2-3B]: # "Handlebars Templating"
