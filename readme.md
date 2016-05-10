@@ -46,7 +46,7 @@ Time |Day 1                                      | Day 2                        
  **9:17am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [Responsive CSS & Flexbox (Ben)][2-2A]                |  [AJAX & API's with jQuery (Alex)][2-3A]       |      [OOP Lesson (Ilias)][2-4A]     | [Review (Ben)][2-5A]
  **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [jQuery & Browser Storage (Ben)][2-2C]  |    [Handlebars Templating (Alex)][2-3B]                     |    [Flower Power OOP Lab (Ilias)][2-4B]    | [OUTCOMES][2-5B]
 **1:30pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [Intro to Bootstrap (Ilias)][2-2B] |    [Google Maps API (Ben)][2-3C]     |        [OOP Game - helper methods (Ben)][2-4C]     | [Review (Ilias)][2-5B]
-**3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]                 |  [HTML Forms w/ jQuery (Ilias)][2-2D]  | [Lab: Geoquakes (Ben)][2-3D] |  [OOP Refactor Tic-Tac-Toe (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Lab: Geoquakes (Ben)][2-3D] |  [OOP Refactor Tic-Tac-Toe (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
 **Training** |[Building Iterators (Ilias)][2-1E] | [MicroBlog (Alex)][2-2E]  |  [OOP Prep (reading)][2-3E] | [OOP Refactor Tic-Tac-Toe cont'd][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
 
 [2-1A]: https://github.com/sf-wdi-29/git-and-github "Git and GitHub Branching and Pages"
