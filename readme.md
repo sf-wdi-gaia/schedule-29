@@ -56,7 +56,7 @@ Time |Day 1                                      | Day 2                        
 [2-1E]: https://github.com/sf-wdi-29/js-building-iterators-lab "Building Iterators"
 
 [2-2A]: https://github.com/sf-wdi-29/css-responsive-design-and-flexbox  "Responsive CSS & Flexbox"
-[2-2B]: # "Intro to Bootstrap"
+[2-2B]: https://github.com/sf-wdi-29/bootstrap "Intro to Bootstrap"
 [2-2C]: # "jQuery and Browser Storage"
 [2-2D]: https://github.com/sf-wdi-29/html-forms "HTML Forms"
 [2-2E]: # "Microblog Lab"
