@@ -75,8 +75,8 @@ Time |Day 1                                      | Day 2                        
 
 [2-5A]: # "Review"
 [2-5B]: # "Outcomes"
-[2-5C]: # "Review"
-[2-5D]: https://github.com/sf-wdi-29/create-an-issue/blob/master/readme.md "Create an Issue"
+[2-5C]: https://github.com/sf-wdi-29/create-an-issue/blob/master/readme.md "Review"
+[2-5D]: # "Create an Issue"
 [2-5E]: https://github.com/sf-wdi-29/create-an-issue/blob/master/readme.md#this-weekends-assignment "Fix an Issue"
 
 #### Week 1 - Fundamentals and Tools
