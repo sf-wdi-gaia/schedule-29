@@ -62,7 +62,7 @@ Time |Day 1                                      | Day 2                        
 [2-2E]: https://github.com/sf-wdi-29/jquery-datepicker-lab "More jQuery Practice"
 
 [2-3A]: https://github.com/sf-wdi-29/ajax-with-jquery "AJAX & APIs with jQuery"
-[2-3B]: # "Handlebars Templating"
+[2-3B]: https://github.com/sf-wdi-29/handlebars "Handlebars Templating"
 [2-3C]: # "Google Maps API"
 [2-3D]: # "Geoquakes Lab"
 [2-3E]: # "OOP Prep"
