@@ -67,8 +67,8 @@ Time |Day 1                                      | Day 2                        
 [2-3D]: https://github.com/sf-wdi-29/geoquakes "Geoquakes Lab"
 [2-3E]: https://www.youtube.com/watch?v=SS-9y0H3Si8 "OOP Prep"
 
-[2-4A]: # "OOP Lesson"
-[2-4B]: # "Flower Power OOP Lab"
+[2-4A]: https://github.com/sf-wdi-29/js-oop-flower-power "OOP Lesson"
+[2-4B]: https://github.com/sf-wdi-29/js-oop-flower-power "Flower Power OOP Lab"
 [2-4C]: # "OOP Game"
 [2-4D]: # "OOP Refactor"
 [2-4E]: # "OOP Refactor (cont'd)"
