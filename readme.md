@@ -45,8 +45,8 @@ Time |Day 1                                      | Day 2                        
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:17am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [jQuery & Browser Storage (Ben)][2-2A]                |  [AJAX & API's with jQuery (Alex)][2-3A]       |      [OOP in JS (Ilias)][2-4A]     | [Review (Ben)][2-5A]
  **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Responsive CSS & Flexbox (Ben)][2-2B]  |    [Handlebars Templating (Alex)][2-3B]                     |    [OOP in JS (Ilias)][2-4B]    | [OUTCOMES][2-5B]
-**1:30pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [Intro to Bootstrap (Ilias)][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |        [OOP Game - helper methods (Ben)][2-4C]     | [Review (Ilias)][2-5B]
-**3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Refactor Tic-Tac-Toe (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
+**1:30pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [Intro to Bootstrap (Ilias)][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |        [OOP concepts (Ben)][2-4C]     | [Review (Ilias)][2-5B]
+**3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Refactor Lab (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
 **Training** |[Building Iterators (Ilias)][2-1E] | [More jQuery Practice (Ben)][2-2E]  |  [OOP Prep (Ilias)][2-3E] | [OOP Refactor Tic-Tac-Toe cont'd][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
 
 [2-1A]: https://github.com/sf-wdi-29/git-and-github "Git and GitHub Branching and Pages"
@@ -69,8 +69,8 @@ Time |Day 1                                      | Day 2                        
 
 [2-4A]: https://github.com/sf-wdi-29/js-oop-flower-power "OOP Lesson"
 [2-4B]: https://github.com/sf-wdi-29/js-oop-flower-power "Flower Power OOP Lab"
-[2-4C]: # "OOP Game"
-[2-4D]: # "OOP Refactor"
+[2-4C]: https://github.com/sf-wdi-29/oop-concepts "OOP Concepts"
+[2-4D]: # "OOP Concepts"
 [2-4E]: # "OOP Refactor (cont'd)"
 
 [2-5A]: # "Review"
