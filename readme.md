@@ -43,7 +43,7 @@ Time | Day 1                                      | Day 2                       
 
 Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:17am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [jQuery & Browser Storage (Ben)][2-2A]                |  [AJAX & API's with jQuery (Alex)][2-3A]       |      [OOP Lesson (Ilias)][2-4A]     | [Review (Ben)][2-5A]
+ **9:17am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [jQuery & Browser Storage (Ben)][2-2A]                |  [AJAX & API's with jQuery (Alex)][2-3A]       |      [OOP in JS (Ilias)][2-4A]     | [Review (Ben)][2-5A]
  **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Responsive CSS & Flexbox (Ben)][2-2B]  |    [Handlebars Templating (Alex)][2-3B]                     |    [Flower Power OOP Lab (Ilias)][2-4B]    | [OUTCOMES][2-5B]
 **1:30pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [Intro to Bootstrap (Ilias)][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |        [OOP Game - helper methods (Ben)][2-4C]     | [Review (Ilias)][2-5B]
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Refactor Tic-Tac-Toe (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
