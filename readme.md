@@ -13,7 +13,7 @@ Time | Day 1                                      | Day 2                       
 
 [3-1A]: # "Review Training"
 [3-1B]: https://github.com/sf-wdi-29/sass-intro "SASS Lesson"
-[3-1C]: software-development-best-practices "Agile development, wireframes, and user stories"
+[3-1C]: https://github.com/sf-wdi-29/software-development-best-practices "Agile development, wireframes, and user stories"
 [3-1D]: https://github.com/sf-wdi-29/project-1 "Project 1 Specs"
 
 [3-2A]: # "Binary Search"
