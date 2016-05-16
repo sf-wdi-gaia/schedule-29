@@ -12,7 +12,7 @@ Time | Day 1                                      | Day 2                       
 **Training** | Project 1 | Project 1 | Project 1 | Project 1 | [Ruby Intro and Fix an Issue][3-5E]
 
 [3-1A]: # "Review Training"
-[3-1B]: # "SASS Lesson"
+[3-1B]: https://github.com/sf-wdi-29/sass-intro "SASS Lesson"
 [3-1C]: # "Agile development, wireframes, and user stories"
 [3-1D]: # "Project Management"
 
