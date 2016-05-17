@@ -21,7 +21,7 @@ Time | Day 1                                      | Day 2                       
 [3-2C]: # "Project 1"
 [3-2D]: # "Project 1"
 
-[3-3A]: # "Bubble Sort"
+[3-3A]: https://github.com/sf-wdi-29/bubble-sort "Bubble Sort"
 [3-3B]: # "Project 1"
 [3-3C]: # "Project 1"
 [3-3D]: # "Project 1"
