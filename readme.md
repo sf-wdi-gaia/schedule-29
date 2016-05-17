@@ -16,7 +16,7 @@ Time | Day 1                                      | Day 2                       
 [3-1C]: https://github.com/sf-wdi-29/software-development-best-practices "Agile development, wireframes, and user stories"
 [3-1D]: https://github.com/sf-wdi-29/project-1 "Project 1 Specs"
 
-[3-2A]: # "Binary Search"
+[3-2A]: https://github.com/sf-wdi-29/binary-search "Binary Search"
 [3-2B]: # "Project 1"
 [3-2C]: # "Project 1"
 [3-2D]: # "Project 1"
