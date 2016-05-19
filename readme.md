@@ -9,7 +9,7 @@ Time | Day 1                                      | Day 2                       
  **10:45am Module 2** |[Sass/CSS preprocessors (Ben) ][3-1B]| [Project 1][3-2B]  | [Project 1][3-3B] | [Project 1][3-4B]| Presentations
 **1:30pm Module 3** |[Agile development, wireframes, and user stories (Ilias)] [3-1C]| [Project 1][3-2C]  | [Project 1][3-3C] | [Outcomes][3-4C] |  Presentations
 **3:00pm Module 4** | [Project 1 Specs][3-1D] |  [Project 1][3-2D]|  [Project 1][3-3D]|  [Project 1][3-4D]| [Happy Hour][3-5D]
-**Training** | Project 1 | Project 1 | Project 1 | Project 1 | [Ruby Intro and Fix an Issue][3-5E]
+**Training** | Project 1 | Project 1 | Project 1 | Project 1 | [Ruby Intro][3-5E] and [Fix an Issue][3-5F]
 
 [3-1A]: # "Review Training"
 [3-1B]: https://github.com/sf-wdi-29/sass-intro "SASS Lesson"
@@ -36,6 +36,7 @@ Time | Day 1                                      | Day 2                       
 [3-5C]: # "Review"
 [3-5D]: # "Happy Hour"
 [3-5E]: # "Training: tryruby.org Lessons 1 - 2"
+[3-5F]: # "Fix an issue"
 
 #### Week 2 - JavaScript & Front-end Libraries
 
