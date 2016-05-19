@@ -26,7 +26,7 @@ Time | Day 1                                      | Day 2                       
 [3-3C]: # "Project 1"
 [3-3D]: # "Project 1"
 
-[3-4A]: # "Merge Sort"
+[3-4A]: https://github.com/sf-wdi-29/merge-sort "Merge Sort"
 [3-4B]: # "Project 1"
 [3-4C]: # "Outcomes"
 [3-4D]: # "Project 1"
