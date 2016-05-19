@@ -36,7 +36,7 @@ Time | Day 1                                      | Day 2                       
 [3-5C]: # "Review"
 [3-5D]: # "Happy Hour"
 [3-5E]: # "Training: tryruby.org Lessons 1 - 2"
-[3-5F]: # "Fix an issue"
+[3-5F]: https://github.com/sf-wdi-29/create-an-issue-project1 "Fix an issue"
 
 #### Week 2 - JavaScript & Front-end Libraries
 
