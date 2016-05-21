@@ -1,3 +1,47 @@
+## Unit 2: Node, Express and Sinatra
+
+#### Week 4 - Intro to Node and Express
+
+Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
+----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
+**9:17am Module 1** | [Intro to Node.js (Ilias)][4-1A]         | [Intro to Mongo (Alex)][4-2A]             | [Views in Express (Ben)][4-3A]    | [Tune.ly][4-4A]               | [Review (Ben)][4-5A]
+**10:45am Module 2** |  [Intro to Express (Ilias)][4-1B]         | [Intro to Mongoose (Alex)][4-2B]              |    [Views in Express Cont. (Ben)][4-3A]   | [Tune.ly][4-4B]        | [Outcomes][4-5B]
+**1:30pm Module 3** | [Building Express routes part 1 (Ben)][4-1C]                        | [Mongo Relationships (Ilias)][4-2C] |[Lab: ToDo List App (Alex)][4-3C] | [Tune.ly][4-4C]     | [Questions in a Hat (Ilias)][4-5C]
+**3:00pm Module 4** | [Building Express Routes part 2 (Ben)][4-1D]                  | [Lab: Mongo Relationships (Ilias)][4-2D]|   [ Ajax OOP Refactor Lab (Alex)][4-3D]      | [Tune.ly][4-4D]       | [Personal API Lab (Alex)][4-4E]
+**Homework** | [More Express Routes][4-1E] | [Lab: Mongo][4-2E]   |   [Finish Labs][4-3B]   | [Tune.ly][4-4E]  | [Personal API Lab (Alex)][4-5E]
+
+
+[4-1A]: # "Intro to Node.js"
+[4-1B]: # "Intro to Express.js"
+[4-1C]: # "Building Express Routes part 1"
+[4-1D]: # "Building Express Routes part 2"
+[4-1E]: # "More Express Routes"
+
+[4-2A]: # "Intro to Node with Mongo"
+[4-2B]: # "Mongo-backed models with Mongoose"
+[4-2C]: # "Mongoose CRUD Lab"
+[4-2D]: # "Mongoose Embedded and Referenced Relationships Lab"
+[4-2E]: #  "Connecting Express Routes to Mongo Lab"
+
+[4-3A]: # "Views in Express Lesson"
+[4-3B]: # "Views in Express Lab"
+[4-3C]: # "Todo Lab, Part 1"
+[4-3D]: # "AJAX Lesson"
+[4-3E]: # "Todo Lab, Part 2"
+
+[4-4A]: # "Tunely"
+[4-4B]: # "Tunely"
+[4-4C]: # "Tunely"
+[4-4D]: # "Tunely"
+[4-4E]: # "Tunely"
+
+[4-5A]: # "Review"
+[4-5B]: # "Outcomes"
+[4-5C]: # "Questions in a Hat"
+[4-5D]: # "Personal API Weekend Lab"
+[4-5E]: # "Personal API Weekend Lab"
+
+
 
 ## Unit 1: The Frontend
 
