@@ -11,8 +11,8 @@ Time | Day 1                                    | Day 2                         
 **Homework** | [More Express Routes][4-1E] | [Lab: Mongo][4-2E]   |   [Finish Labs][4-3B]   | [Tune.ly][4-4E]  | [Personal API Lab (Alex)][4-5E]
 
 
-[4-1A]: # "Intro to Node.js"
-[4-1B]: # "Intro to Express.js"
+[4-1A]: https://github.com/sf-wdi-29/nodejs "Intro to Node.js"
+[4-1B]: https://github.com/sf-wdi-29/express "Intro to Express.js"
 [4-1C]: # "Building Express Routes part 1"
 [4-1D]: # "Building Express Routes part 2"
 [4-1E]: # "More Express Routes"
