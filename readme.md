@@ -13,9 +13,9 @@ Time | Day 1                                    | Day 2                         
 
 [4-1A]: https://github.com/sf-wdi-29/nodejs "Intro to Node.js"
 [4-1B]: https://github.com/sf-wdi-29/express "Intro to Express.js"
-[4-1C]: # "Building Express Routes part 1"
-[4-1D]: # "Building Express Routes part 2"
-[4-1E]: # "More Express Routes"
+[4-1C]: https://github.com/sf-wdi-29/express-routing-lesson "Building Express Routes part 1"
+[4-1D]: https://github.com/sf-wdi-29/express-routing-lab "Building Express Routes part 2"
+[4-1E]: https://github.com/sf-wdi-29/more-express-routes "More Express Routes"
 
 [4-2A]: https://github.com/sf-wdi-29/mongo-intro "Intro to Node with Mongo"
 [4-2B]: # "Mongo-backed models with Mongoose"
