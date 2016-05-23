@@ -17,7 +17,7 @@ Time | Day 1                                    | Day 2                         
 [4-1D]: # "Building Express Routes part 2"
 [4-1E]: # "More Express Routes"
 
-[4-2A]: # "Intro to Node with Mongo"
+[4-2A]: https://github.com/sf-wdi-29/mongo-intro "Intro to Node with Mongo"
 [4-2B]: # "Mongo-backed models with Mongoose"
 [4-2C]: # "Mongoose CRUD Lab"
 [4-2D]: # "Mongoose Embedded and Referenced Relationships Lab"
