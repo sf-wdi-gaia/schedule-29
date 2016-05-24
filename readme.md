@@ -20,7 +20,7 @@ Time | Day 1                                    | Day 2                         
 [4-2A]: https://github.com/sf-wdi-29/mongo-intro "Intro to Node with Mongo"
 [4-2B]: # "Mongo-backed models with Mongoose"
 [4-2C]: https://github.com/sf-wdi-29/mongo-structured-data "Data Organization in Mongo"
-[4-2D]: https://github.com/sf-wdi-29/bite-me-mongo-lab "Mongo Lab"
+[4-2D]: https://github.com/sf-wdi-29/mongoose-books-app "Mongo Lab"
 [4-2E]: #  "Connecting Express Routes to Mongo Lab"
 
 [4-3A]: # "Views in Express Lesson"
