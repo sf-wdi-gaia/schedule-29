@@ -7,7 +7,7 @@ Time | Day 1                                    | Day 2                         
 **9:17am Module 1** | [Intro to Node.js (Ilias)][4-1A]         | [Intro to Mongo (Alex)][4-2A]             | [Views in Express (Ben)][4-3A]    | [Tune.ly][4-4A]               | [Review (Ben)][4-5A]
 **10:45am Module 2** |  [Intro to Express (Ilias)][4-1B]         | [Intro to Mongoose (Alex)][4-2B]              |    [Views in Express Cont. (Ben)][4-3A]   | [Tune.ly][4-4B]        | [Outcomes][4-5B]
 **1:30pm Module 3** | [Building Express routes part 1 (Ben)][4-1C]                        | [Data Organization in Mongo (Ilias)][4-2C] |[Lab: ToDo List App (Alex)][4-3C] | [Tune.ly][4-4C]     | [Questions in a Hat (Ilias)][4-5C]
-**3:00pm Module 4** | [Building Express Routes part 2 (Ben)][4-1D]                  | [Lab: Mongo Relationships (Ilias)][4-2D]|   [ Ajax OOP Refactor Lab (Alex)][4-3D]      | [Tune.ly][4-4D]       | [Personal API Lab (Alex)][4-4E]
+**3:00pm Module 4** | [Building Express Routes part 2 (Ben)][4-1D]                  | [Lab: Full Stack JavaScript (Ilias)][4-2D]|   [ Ajax OOP Refactor Lab (Alex)][4-3D]      | [Tune.ly][4-4D]       | [Personal API Lab (Alex)][4-4E]
 **Homework** | [More Express Routes][4-1E] | [Lab: Mongo][4-2E]   |   [Finish Labs][4-3B]   | [Tune.ly][4-4E]  | [Personal API Lab (Alex)][4-5E]
 
 
@@ -20,7 +20,7 @@ Time | Day 1                                    | Day 2                         
 [4-2A]: https://github.com/sf-wdi-29/mongo-intro "Intro to Node with Mongo"
 [4-2B]: # "Mongo-backed models with Mongoose"
 [4-2C]: https://github.com/sf-wdi-29/mongo-structured-data "Data Organization in Mongo"
-[4-2D]: https://github.com/sf-wdi-29/mongoose-books-app "Mongo Lab"
+[4-2D]: https://github.com/sf-wdi-29/mongoose-books-app "Full Stack JavaScript Lab"
 [4-2E]: #  "Connecting Express Routes to Mongo Lab"
 
 [4-3A]: # "Views in Express Lesson"
