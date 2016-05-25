@@ -25,7 +25,7 @@ Time | Day 1                                    | Day 2                         
 
 [4-3A]: https://github.com/sf-wdi-29/express-views-lesson "Views in Express Lesson"
 [4-3B]: https://github.com/sf-wdi-29/express-views-lab "Views in Express Lab"
-[4-3C]: # "Todo Lab, Part 1"
+[4-3C]: https://github.com/sf-wdi-29/test-driven-todo-api "Todo Lab, Part 1"
 [4-3D]: # "AJAX Lesson"
 [4-3E]: # "Todo Lab, Part 2"
 
