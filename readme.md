@@ -1,6 +1,40 @@
 ## Unit 2: The Server
 
-#### Week 4 - Intro to Node and Express
+#### Week 5 - Ruby and Sinatra
+
+Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
+----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
+**9:17am Module 1** |Memorial Day | [Intro to Ruby (Alex)][6-1A] | [OOP Ruby (Ilias)][6-2A] |  [Models & Migrations (Ilias)][6-3A]       | [Review (Alex)][6-4A]
+**10:45am Module 2** | Memorial Day |  [Intro to Ruby Lab (Alex)][6-1B] | [OOP Lab (Ilias)][6-2B]   |    [Models & Migrations Lab (Ilias)][6-3B]     | [Outcomes][6-4B]
+**1:30pm Module 3** | Memorial Day |  [Sinatra View Templating (Ben)][6-1C]| [Data Modeling (Ben)][6-2C] | [ActiveRecord (Ben)][6-3C]       | [Review (Ilias)][6-4C]
+**3:00pm Module 4** | Memorial Day |[Sinatra Controllers + Routes (Ben)][6-1D]  | [SQL (Ben)][6-2D]   |     [Active Record Lab][6-3D]  | [Sinatra Project][6-4D]
+**Homework** | Memorial Day | [Sinatra Code Study + Ruby Grandma Exercise (Alex)][6-1E]  | [Finish Labs][6-2E]  | [Start Sinatra Project][6-3E]      | [Sinatra Project ][6-4E]
+
+[6-1A]: # "Intro to Ruby"
+[6-1B]: # "Intro to Ruby Lab"
+[6-1C]: # "Sinatra Setup + Layouts & Templating"
+[6-1D]: #  "Controllers & RESTful Routing"
+[6-1E]: # "Your own Sinatra app"
+
+[6-2A]: # "Ruby OOP Lesson"
+[6-2B]: # "Ruby OOP Lab"
+[6-2C]: #  "Intro to Relational Data Modeling"
+[6-2D]: # "SQL Select Lab"
+[6-2E]: # "Data Modeling Homework"
+
+[6-3A]: # "Building Models with ActiveRecord and Migrations"
+[6-3B]: # "Models and Migrations Lab"
+[6-3C]: # "ActiveRecord Methods and Finders"
+[6-3D]: # "ActiveRecord Finders lab"
+[6-3E]: # "Sinatra Project"
+
+[6-4A]: # "Review"
+[6-4B]: # "Outcomes"
+[6-4C]: # "Questions in a Hat"
+[6-4D]: #  "Weekend Sinatra app"
+[6-4E]: #  "Weekend Sinatra app"
+
+#### Week 4 - Node and Express
 
 Time | Day 1                                    | Day 2                                 | Day 3                                | Day 4                                    | Day 5
 ----- | --------------------------------         | ------------------------------------- | ------------------------------------ | ---------------------------------------- | -----------------------------------
