@@ -29,11 +29,11 @@ Time | Day 1                                    | Day 2                         
 [4-3D]: https://github.com/sf-wdi-29/ajax-oop-refactor-lab "AJAX Lesson"
 [4-3E]: # "Todo Lab, Part 2"
 
-[4-4A]: # "Tunely"
-[4-4B]: # "Tunely"
-[4-4C]: # "Tunely"
-[4-4D]: # "Tunely"
-[4-4E]: # "Tunely"
+[4-4A]: https://github.com/sf-wdi-29/tunely "Tunely"
+[4-4B]: https://github.com/sf-wdi-29/tunely "Tunely"
+[4-4C]: https://github.com/sf-wdi-29/tunely "Tunely"
+[4-4D]: https://github.com/sf-wdi-29/tunely "Tunely"
+[4-4E]: https://github.com/sf-wdi-29/tunely "Tunely"
 
 [4-5A]: # "Review"
 [4-5B]: # "Outcomes"
