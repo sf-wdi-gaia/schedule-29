@@ -1,4 +1,4 @@
-## Unit 2: Node, Express and Sinatra
+## Unit 2: The Server
 
 #### Week 4 - Intro to Node and Express
 
@@ -43,7 +43,7 @@ Time | Day 1                                    | Day 2                         
 
 
 
-## Unit 1: The Frontend
+## Unit 1: The Client
 
 #### Week 3 - Project 1:  Browser Games
 
