@@ -72,7 +72,7 @@ Time | Day 1                                    | Day 2                         
 [4-5A]: # "Review"
 [4-5B]: # "Outcomes"
 [4-5C]: # "Questions in a Hat"
-[4-5D]: # "Personal API Weekend Lab"
+[4-5D]: https://github.com/sf-wdi-29/express-personal-api "Personal API Weekend Lab"
 [4-5E]: http://poignant.guide/book/chapter-1 "Personal API Weekend Lab"
 
 
