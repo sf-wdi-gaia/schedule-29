@@ -42,7 +42,7 @@ Time | Day 1                                    | Day 2                         
 **10:45am Module 2** |  [Intro to Express (Ilias)][4-1B]         | [Intro to Mongoose (Alex)][4-2B]              |    [Lab: Views in Express (Ben)][4-3B]   | [Tune.ly][4-4B]        | [Outcomes][4-5B]
 **1:30pm Module 3** | [Building Express routes part 1 (Ben)][4-1C]                        | [Data Organization in Mongo (Ilias)][4-2C] |[Lab: ToDo List App (Alex)][4-3C] | [Tune.ly][4-4C]     | [Questions in a Hat (Ilias)][4-5C]
 **3:00pm Module 4** | [Building Express Routes part 2 (Ben)][4-1D]                  | [Lab: Full Stack JavaScript (Ilias)][4-2D]|   [ Ajax OOP Refactor Lab (Alex)][4-3D]      | [Tune.ly][4-4D]       | [Personal API Lab (Alex)][4-4E]
-**Homework** | [More Express Routes][4-1E] | [Lab: Mongo][4-2E]   |   [Finish Labs][4-3B]   | No Homework! You earned a break! Go Warriors! | [First 3 Chapters of Why's Guide][4-5E]
+**Homework** | [More Express Routes][4-1E] | [Lab: Mongo][4-2E]   |   [Finish Labs][4-3B]   | No Homework! You earned a break! Go Warriors! | Finish Lab + [First 3 Chapters of Why's Guide][4-5E]
 
 
 [4-1A]: https://github.com/sf-wdi-29/nodejs "Intro to Node.js"
