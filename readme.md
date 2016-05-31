@@ -10,8 +10,8 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 **3:00pm Module 4** | Memorial Day |[Sinatra Controllers + Routes (Ben)][6-1D]  | [SQL (Alex)][6-2D]   |     [Active Record Lab][6-3D]  | [Sinatra Project][6-4D]
 **Homework** | Memorial Day | [Sinatra Code Study + Ruby Grandma Exercise (Alex)][6-1E]  | [Finish Labs][6-2E]  | [Start Sinatra Project][6-3E]      | [Sinatra Project ][6-4E]
 
-[6-1A]: # "Intro to Ruby"
-[6-1B]: # "Intro to Ruby Lab"
+[6-1A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
+[6-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
 [6-1C]: # "Sinatra Setup + Layouts & Templating"
 [6-1D]: #  "Controllers & RESTful Routing"
 [6-1E]: # "Your own Sinatra app"
