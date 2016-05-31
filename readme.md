@@ -14,7 +14,7 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 [6-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
 [6-1C]: https://github.com/sf-wdi-29/intro-sinatra "Sinatra Setup + Layouts & Templating"
 [6-1D]: https://github.com/sf-wdi-29/sinatra-controllers-and-routes "Controllers & RESTful Routing"
-[6-1E]: # "Your own Sinatra app"
+[6-1E]: https://github.com/sf-wdi-29/deaf-grandma  "Sinatra Code Study + Ruby Grandma Exercise"
 
 [6-2A]: # "Ruby OOP Lesson"
 [6-2B]: # "Ruby OOP Lab"
