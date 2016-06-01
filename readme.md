@@ -18,7 +18,7 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 
 [6-2A]: https://github.com/sf-wdi-29/ruby-oop "Ruby OOP Lesson"
 [6-2B]: https://github.com/sf-wdi-29/monkey-oop "Ruby OOP Lab"
-[6-2C]: #  "Intro to Relational Data Modeling"
+[6-2C]: https://github.com/sf-wdi-29/data-modeling "Relational Data Modeling"
 [6-2D]: # "SQL Select Lab"
 [6-2E]: # "Data Modeling Homework"
 
