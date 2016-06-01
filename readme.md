@@ -8,7 +8,7 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 **10:45am Module 2** | Memorial Day |  [Intro to Ruby Lab (Alex)][6-1B] | [OOP Ruby Lab (Ilias)][6-2B]   |    [Active Record Models Lab (Ilias)][6-3B]     | [Outcomes][6-4B]
 **1:30pm Module 3** | Memorial Day |  [Sinatra View Templating (Ben)][6-1C]| [Data Modeling (Alex)][6-2C] | [ActiveRecord (Ben)][6-3C]       | [Review (Ilias)][6-4C]
 **3:00pm Module 4** | Memorial Day |[Sinatra Controllers + Routes (Ben)][6-1D]  | [SQL (Alex)][6-2D]   |     [Active Record Lab][6-3D]  | [Sinatra Project][6-4D]
-**Homework** | Memorial Day | [Sinatra Code Study + Ruby Grandma Exercise (Alex)][6-1E]  | [Finish Labs][6-2E]  | [Start Sinatra Project][6-3E]      | [Sinatra Project ][6-4E]
+**Homework** | Memorial Day | [Sinatra Code Study + Ruby Grandma Exercise (Alex)][6-1E]  | [Carmen Sandiego Lab][6-2E]  | [Start Sinatra Project][6-3E]      | [Sinatra Project ][6-4E]
 
 [6-1A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
 [6-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
@@ -20,7 +20,7 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 [6-2B]: https://github.com/sf-wdi-29/monkey-oop "Ruby OOP Lab"
 [6-2C]: https://github.com/sf-wdi-29/data-modeling "Relational Data Modeling"
 [6-2D]: https://github.com/sf-wdi-29/sql "SQL Select Lab"
-[6-2E]: # "Data Modeling Homework"
+[6-2E]: https://github.com/sf-wdi-29/sql-carmen-sandiego "SQL"
 
 [6-3A]: https://github.com/sf-wdi-29/active-record-models "Building Models with ActiveRecord and Migrations"
 [6-3B]: https://github.com/sf-wdi-29/modeling-tunr "Models and Migrations Lab"
