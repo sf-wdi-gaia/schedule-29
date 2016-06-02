@@ -4,8 +4,8 @@
 
 Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
-**9:17am Module 1** |Memorial Day | [Intro to Ruby (Alex)][6-1A] | [OOP Ruby (Ilias)][6-2A] |  [Active Record Models (Ilias)][6-3A]       | [Review (Alex)][6-4A]
-**10:45am Module 2** | Memorial Day |  [Intro to Ruby Lab (Alex)][6-1B] | [OOP Ruby Lab (Ilias)][6-2B]   |    [Active Record Models Lab (Ilias)][6-3B]     | [Outcomes][6-4B]
+**9:17am Module 1** |Memorial Day | [Intro to Ruby (Alex)][6-1A] | [OOP Ruby (Ilias)][6-2A] |  [ActiveRecord Models (Ilias)][6-3A]       | [Review (Alex)][6-4A]
+**10:45am Module 2** | Memorial Day |  [Intro to Ruby Lab (Alex)][6-1B] | [OOP Ruby Lab (Ilias)][6-2B]   |    [ActiveRecord Models Lab (Ilias)][6-3B]     | [Outcomes][6-4B]
 **1:30pm Module 3** | Memorial Day |  [Sinatra View Templating (Ben)][6-1C]| [Data Modeling (Alex)][6-2C] | [ActiveRecord (Ben)][6-3C]       | [Review (Ilias)][6-4C]
 **3:00pm Module 4** | Memorial Day |[Sinatra Controllers + Routes (Ben)][6-1D]  | [SQL (Alex)][6-2D]   |     [Active Record Lab][6-3D]  | [Sinatra Project][6-4D]
 **Homework** | Memorial Day | [Sinatra Code Study + Ruby Grandma Exercise (Alex)][6-1E]  | [Carmen Sandiego Lab][6-2E]  | [Start Sinatra Project][6-3E]      | [Sinatra Project ][6-4E]
