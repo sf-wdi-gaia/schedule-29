@@ -26,7 +26,7 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 [6-3B]: https://github.com/sf-wdi-29/modeling-tunr "Models and Migrations Lab"
 [6-3C]: # "ActiveRecord Methods and Finders"
 [6-3D]: # "ActiveRecord Finders lab"
-[6-3E]: # "Sinatra Project"
+[6-3E]: https://github.com/sf-wdi-29/project-2 "Sinatra Project"
 
 [6-4A]: # "Review"
 [6-4B]: # "Outcomes"
