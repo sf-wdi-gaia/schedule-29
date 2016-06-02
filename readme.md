@@ -24,8 +24,8 @@ Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 
 [6-3A]: https://github.com/sf-wdi-29/active-record-models "Building Models with ActiveRecord and Migrations"
 [6-3B]: https://github.com/sf-wdi-29/modeling-tunr "Models and Migrations Lab"
-[6-3C]: # "ActiveRecord Methods and Finders"
-[6-3D]: # "ActiveRecord Finders lab"
+[6-3C]: https://github.com/sf-wdi-29/active-record-methods-finders "ActiveRecord Methods and Finders"
+[6-3D]: https://github.com/sf-wdi-29/active-record-pizza-lab "ActiveRecord Finders lab"
 [6-3E]: https://github.com/sf-wdi-29/project-2 "Sinatra Project"
 
 [6-4A]: # "Review"
