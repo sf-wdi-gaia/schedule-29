@@ -71,7 +71,7 @@ Time | Day 1                                    | Day 2                         
 
 [4-5A]: # "Review"
 [4-5B]: # "Outcomes"
-[4-5C]: # "Questions in a Hat"
+[4-5C]: https://github.com/sf-wdi-29/questions-in-a-hat/blob/master/week-04.md "Questions in a Hat"
 [4-5D]: # "Personal API Weekend Lab"
 [4-5E]: http://poignant.guide/book/chapter-1 "Personal API Weekend Lab"
 
@@ -122,7 +122,7 @@ Time |Day 1                                      | Day 2                        
 ----- |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
  **9:17am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [jQuery & Browser Storage (Ben)][2-2A]                |  [AJAX & API's with jQuery (Alex)][2-3A]       |      [OOP in JS (Ilias)][2-4A]     | [Review (Ben)][2-5A]
  **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Responsive CSS & Flexbox (Ben)][2-2B]  |    [Handlebars Templating (Alex)][2-3B]                     |    [OOP in JS (Ilias)][2-4B]    | Outcomes
-**1:30pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [Intro to Bootstrap (Ilias)][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |        [OOP concepts (Ben)][2-4C]     | [Review (Ilias)][2-5B]
+**1:30pm Module 3** |[Callbacks & Iterators (Ilias)][2-1C]                          |   [Intro to Bootstrap (Ilias)][2-2C] |    [Geoquakes Lab (Ben)][2-3C]     |        [OOP concepts (Ben)][2-4C]     | [Questions in a Hat (Ilias)][2-5B]
 **3:00pm Module 4** | [Lab: Callbacks & Iterators (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Geoquakes Lab Cont'd (Ben)][2-3C] |  [OOP Refactor Lab (Ben)][2-4C]  | [Create an Issue (Alex)][2-5C]|
 **Training** |[Building Iterators (Ilias)][2-1E] | [More jQuery Practice (Ben)][2-2E]  |  [OOP Prep (Ilias)][2-3E] | [OOP Refactor cont'd][2-4C] | [Weekend Lab: Fix an issue (Alex)][2-5E]
 
@@ -151,7 +151,7 @@ Time |Day 1                                      | Day 2                        
 [2-4E]: # "OOP Refactor (cont'd)"
 
 [2-5A]: # "Review"
-[2-5B]: # "Outcomes"
+[2-5B]: https://github.com/sf-wdi-29/questions-in-a-hat/blob/master/week-02.md "Questions in a Hat"
 [2-5C]: https://github.com/sf-wdi-29/create-an-issue/blob/master/readme.md "Review"
 [2-5D]: # "Create an Issue"
 [2-5E]: https://github.com/sf-wdi-29/create-an-issue/blob/master/readme.md#this-weekends-assignment "Fix an Issue"
