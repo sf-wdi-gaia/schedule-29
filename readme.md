@@ -1,38 +1,65 @@
 ## Unit 2: The Server
 
+
+
+#### Week 6 - Sinatra Single-Resource App
+
+ Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
+----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
+ **9:30am Module 1** | [One to Many, Many to Many (Ben)][6-1A]  | [Username Generator (Ilias)][6-2A] | [Go Fish game (Alex)][6-3A] | Project 2  |      Presentations      |
+ **10:45am Module 2** | Project 2    | Project 2  | Project 2  | Project 2      | Project 2     |
+ **1:30pm Module 3** |  Project 2    |   Project 2  |  Project 2   |  Project 2   | Outcomes  |
+**3:00pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
+**Homework** | Homework | Homework | Homework | Homework |  Homework |
+
+
+[6-1A]: # "One to Many, Many to Many"
+[6-2A]: # "Username Generator"
+[6-3A]: # "Go Fish Game"
+[6-5A]: # "Review"
+
+
+Extra Resources:
+
+["Deploy to Heroku"](#)
+["Helper/Private/Model Methods & Breakpoints"](#)
+["Front-end Assets"](#)
+
+
+
 #### Week 5 - Ruby and Sinatra
 
 Time | Day 0 | Day 1 | Day 2 | Day 3 | Day 4
 ----| -------------------------------- | ------------------------------------ | ------------------------------------ | --------------------------------------- | -----------------------------------
-**9:17am Module 1** |Memorial Day | [Intro to Ruby (Alex)][6-1A] | [OOP Ruby (Ilias)][6-2A] |  [ActiveRecord Models (Ilias)][6-3A]       | [Review (Alex)][6-4A]
-**10:45am Module 2** | Memorial Day |  [Intro to Ruby Lab (Alex)][6-1B] | [OOP Ruby Lab (Ilias)][6-2B]   |    [ActiveRecord Models Lab (Ilias)][6-3B]     | Outcomes
-**1:30pm Module 3** | Memorial Day |  [Sinatra View Templating (Ben)][6-1C]| [Data Modeling (Alex)][6-2C] | [ActiveRecord (Ben)][6-3C]       | [Questions in a Hat (Ilias)][6-4C]
-**3:00pm Module 4** | Memorial Day |[Sinatra Controllers + Routes (Ben)][6-1D]  | [SQL (Alex)][6-2D]   |     [ActiveRecord Lab][6-3D]  | [Sinatra Project][6-4D]
-**Homework** | Memorial Day | [Sinatra Code Study + Ruby Grandma Exercise (Alex)][6-1E]  | [Carmen Sandiego Lab][6-2E]  | [Start Sinatra Project][6-3E]      | [Sinatra Project ][6-4E]
+**9:17am Module 1** |Memorial Day | [Intro to Ruby (Alex)][5-1A] | [OOP Ruby (Ilias)][5-2A] |  [ActiveRecord Models (Ilias)][5-3A]       | [Review (Alex)][5-4A]
+**10:45am Module 2** | Memorial Day |  [Intro to Ruby Lab (Alex)][5-1B] | [OOP Ruby Lab (Ilias)][5-2B]   |    [ActiveRecord Models Lab (Ilias)][5-3B]     | Outcomes
+**1:30pm Module 3** | Memorial Day |  [Sinatra View Templating (Ben)][5-1C]| [Data Modeling (Alex)][5-2C] | [ActiveRecord (Ben)][5-3C]       | [Questions in a Hat (Ilias)][5-4C]
+**3:00pm Module 4** | Memorial Day |[Sinatra Controllers + Routes (Ben)][5-1D]  | [SQL (Alex)][5-2D]   |     [ActiveRecord Lab][5-3D]  | [Sinatra Project][5-4D]
+**Homework** | Memorial Day | [Sinatra Code Study + Ruby Grandma Exercise (Alex)][5-1E]  | [Carmen Sandiego Lab][5-2E]  | [Start Sinatra Project][5-3E]      | [Sinatra Project ][5-4E]
 
-[6-1A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
-[6-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
-[6-1C]: https://github.com/sf-wdi-29/intro-sinatra "Sinatra Setup + Layouts & Templating"
-[6-1D]: https://github.com/sf-wdi-29/sinatra-controllers-and-routes "Controllers & RESTful Routing"
-[6-1E]: https://github.com/sf-wdi-29/deaf-grandma  "Sinatra Code Study + Ruby Grandma Exercise"
+[5-1A]: https://github.com/sf-wdi-29/intro-ruby "Intro to Ruby"
+[5-1B]: https://github.com/sf-wdi-29/ruby-koans "Intro to Ruby Lab"
+[5-1C]: https://github.com/sf-wdi-29/intro-sinatra "Sinatra Setup + Layouts & Templating"
+[5-1D]: https://github.com/sf-wdi-29/sinatra-controllers-and-routes "Controllers & RESTful Routing"
+[5-1E]: https://github.com/sf-wdi-29/deaf-grandma  "Sinatra Code Study + Ruby Grandma Exercise"
 
-[6-2A]: https://github.com/sf-wdi-29/ruby-oop "Ruby OOP Lesson"
-[6-2B]: https://github.com/sf-wdi-29/monkey-oop "Ruby OOP Lab"
-[6-2C]: https://github.com/sf-wdi-29/data-modeling "Relational Data Modeling"
-[6-2D]: https://github.com/sf-wdi-29/sql "SQL Select Lab"
-[6-2E]: https://github.com/sf-wdi-29/sql-carmen-sandiego "SQL"
+[5-2A]: https://github.com/sf-wdi-29/ruby-oop "Ruby OOP Lesson"
+[5-2B]: https://github.com/sf-wdi-29/monkey-oop "Ruby OOP Lab"
+[5-2C]: https://github.com/sf-wdi-29/data-modeling "Relational Data Modeling"
+[5-2D]: https://github.com/sf-wdi-29/sql "SQL Select Lab"
+[5-2E]: https://github.com/sf-wdi-29/sql-carmen-sandiego "SQL"
 
-[6-3A]: https://github.com/sf-wdi-29/active-record-models "Building Models with ActiveRecord and Migrations"
-[6-3B]: https://github.com/sf-wdi-29/modeling-tunr "Models and Migrations Lab"
-[6-3C]: https://github.com/sf-wdi-29/active-record-methods-finders "ActiveRecord Methods and Finders"
-[6-3D]: https://github.com/sf-wdi-29/active-record-pizza-lab "ActiveRecord Finders lab"
-[6-3E]: https://github.com/sf-wdi-29/project-2 "Sinatra Project"
+[5-3A]: https://github.com/sf-wdi-29/active-record-models "Building Models with ActiveRecord and Migrations"
+[5-3B]: https://github.com/sf-wdi-29/modeling-tunr "Models and Migrations Lab"
+[5-3C]: https://github.com/sf-wdi-29/active-record-methods-finders "ActiveRecord Methods and Finders"
+[5-3D]: https://github.com/sf-wdi-29/active-record-pizza-lab "ActiveRecord Finders lab"
+[5-3E]: https://github.com/sf-wdi-29/project-2 "Sinatra Project"
 
-[6-4A]: # "Review"
-[6-4B]: # "Outcomes"
-[6-4C]: # "Questions in a Hat"
-[6-4D]: #  "Weekend Sinatra app"
-[6-4E]: #  "Weekend Sinatra app"
+[5-4A]: # "Review"
+[5-4B]: # "Outcomes"
+[5-4C]: # "Questions in a Hat"
+[5-4D]: #  "Weekend Sinatra app"
+[5-4E]: #  "Weekend Sinatra app"
 
 #### Week 4 - Node and Express
 
