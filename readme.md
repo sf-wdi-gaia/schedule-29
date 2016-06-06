@@ -21,7 +21,7 @@
 
 Extra Resources:
 
-* Deploy to Heroku
+* [Deploy to Heroku](https://devcenter.heroku.com/articles/rack#frameworks)
 * [Method Organization in Sinatra](https://github.com/sf-wdi-29/sinatra-helper-methods)
 * [Debugging Ruby Applications](https://github.com/sf-wdi-29/debugging-ruby-applications)
 * Front-end Assets
