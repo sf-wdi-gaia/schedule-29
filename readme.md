@@ -22,7 +22,8 @@
 Extra Resources:
 
 * Deploy to Heroku
-* [Method Organization in a Sinatra App: Helper/Private/Model Methods](https://github.com/sf-wdi-29/sinatra-helper-methods)
+* [Method Organization in Sinatra](https://github.com/sf-wdi-29/sinatra-helper-methods)
+* [Debugging Ruby Applications](https://github.com/sf-wdi-29/debugging-ruby-applications)
 * Front-end Assets
 
 
