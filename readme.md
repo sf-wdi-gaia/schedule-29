@@ -21,9 +21,9 @@
 
 Extra Resources:
 
-["Deploy to Heroku"](#)
-["Helper/Private/Model Methods & Breakpoints"](#)
-["Front-end Assets"](#)
+* [Deploy to Heroku](#)
+* [Method Organization in a Sinatra App: Helper/Private/Model Methods](https://github.com/sf-wdi-29/sinatra-helper-methods)
+* [Front-end Assets](#)
 
 
 
