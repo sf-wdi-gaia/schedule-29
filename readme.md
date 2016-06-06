@@ -6,14 +6,14 @@
 
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:30am Module 1** | [One to Many, Many to Many (Ben)][6-1A]  | [Username Generator (Ilias)][6-2A] | [Go Fish game (Alex)][6-3A] | Project 2  |      Presentations      |
+ **9:30am Module 1** | [Sinatra Relationships (Ben)][6-1A]  | [Username Generator (Ilias)][6-2A] | [Go Fish game (Alex)][6-3A] | Project 2  |      Presentations      |
  **10:45am Module 2** | Project 2    | Project 2  | Project 2  | Project 2      | Project 2     |
  **1:30pm Module 3** |  Project 2    |   Project 2  |  Project 2   |  Project 2   | Outcomes  |
 **3:00pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
 **Homework** | Homework | Homework | Homework | Homework |  Homework |
 
 
-[6-1A]: # "One to Many, Many to Many"
+[6-1A]: https://github.com/sf-wdi-29/sinatra-relationships-lab "Sinatra Relationships"
 [6-2A]: # "Username Generator"
 [6-3A]: # "Go Fish Game"
 [6-5A]: # "Review"
