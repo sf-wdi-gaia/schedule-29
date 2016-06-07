@@ -25,7 +25,7 @@ Extra Resources:
 * [Method Organization in Sinatra](https://github.com/sf-wdi-29/sinatra-helper-methods)
 * [Debugging Ruby Applications](https://github.com/sf-wdi-29/debugging-ruby-applications)
 * [Seeding a Sinatra App](https://github.com/sf-wdi-29/sinatra-app-seed/blob/master/readme.md)
-* Front-end Assets
+* [Front-end Assets](https://github.com/sf-wdi-29/front-end-assets/readme.md)
 
 
 
