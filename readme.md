@@ -14,7 +14,7 @@
 
 
 [6-1A]: https://github.com/sf-wdi-29/sinatra-relationships-lab "Sinatra Relationships"
-[6-2A]: # "Username Generator"
+[6-2A]: https://github.com/sf-wdi-29/username-generator "Username Generator"
 [6-3A]: # "Go Fish Game"
 [6-5A]: # "Review"
 
