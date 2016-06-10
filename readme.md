@@ -11,34 +11,34 @@
 **Homework** | Finish Labs |    [ Finish Labs ][7-2E] | [ Finish Labs ][7-3E] + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  [ Finish Labs ][7-4E] | [Library App Weekend Lab (Annabelle)][7-5E] |
 
 
-[7-1A]: w04/d02/m1-rspec-intro "Rspec"
+[7-1A]: # "Rspec"
 [7-1B]: # "Piglatin, nums-to-words, roman numerals"
 [7-1C]: # "Rspec and TDD Lesson"
 [7-1D]: # "Rspec and TDD Lab"
 [7-1E]: # "Finish Labs"
 
-[7-2A]: w05/d01/m1/ "Intro to Rails"
-[7-2B]: w05/d01/m2-associations/ "Relationships Lesson"
-[7-2C]: w05/d01/m3-lab-one-to-many "One to Many Lab"
-[7-2D]: w05/d01/m4-lab-many-to-many "Many to Many Lab"
+[7-2A]: # "Intro to Rails"
+[7-2B]: # "Relationships Lesson"
+[7-2C]: # "One to Many Lab"
+[7-2D]: # "Many to Many Lab"
 [7-2E]: # "Finish Lab + Ruby Docs"
 
-[7-3A]: w05/d02/m1/ "Controllers & Routes Lesson"
-[7-3B]: w05/d02/m2/ "First Rails App Lab"
-[7-3C]: w05/d02/m3-layouts-partials-lesson/ "Layouts & Partials Lesson"
-[7-3D]: w05/d02/m4-rock-n-rails-lab/ "Rock-n-Rails Lab"
-[7-3E]: w05/readings/cookies-and-sessions.md "Sessions & Cookies Reading"
+[7-3A]: # "Controllers & Routes Lesson"
+[7-3B]: # "First Rails App Lab"
+[7-3C]: # "Layouts & Partials Lesson"
+[7-3D]: # "Rock-n-Rails Lab"
+[7-3E]: # "Sessions & Cookies Reading"
 
-[7-4A]: w05/d03/m1-rails-auth "Auth"
-[7-4B]: w05/d03/m1-rails-auth "More Auth"
-[7-4C]: w05/d03/m4-asset-pipeline "Asset Pipeline"
-[7-4D]: w05/d03/hw-heroku-deploy "Heroku Deploy"
-[7-4E]: w05/d03/hw-bog-app "Bog App"
+[7-4A]: # "Auth"
+[7-4B]: # "More Auth"
+[7-4C]: # "Asset Pipeline"
+[7-4D]: # "Heroku Deploy"
+[7-4E]: # "Bog App"
 
 [7-5A]: # "Rails Walkthrough"
 [7-5B]: # "Outcomes"
 [7-5C]: # "Questions in a Hat"
-[7-5D]: w05/d04/m4-project2-intro "Intro Project 2"
+[7-5D]: # "Intro Project 2"
 [7-5E]: # "Project 2 Planning"
 
 
