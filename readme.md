@@ -8,7 +8,7 @@
  **10:45am Module 2** | [Piglatin, nums-to-words, roman numerals (Alex)][7-1B]    | [Controllers and Routes (Alex)][7-2B] | [Asset Pipeline Poem (Ben)][7-3B] | [Auth Lab (Ilias)][7-4B]       | [Outcomes (Neda)][7-5B]    |
  **1:30pm Module 3** | [Rspec and TDD (Ilias)][7-1C]   |  [Layouts and Partials (Ben)][7-2C]| [Validations and Errors (Ilias)][7-3C] | [Many to Many (Ben)][7-4C] |  [ Questions in a Hat (Ilias)][7-5C]   |
 **3:00pm Module 4** | [Rspec and TDD Lab (Ilias)][7-1D]     | [Rock n Rails][7-2D] | [Validations and Errors (Ilias)][7-3D] | [Many to Many (Ben)][7-4D] |  [Library App Weekend Lab (Annabelle)][7-5D]    |
-**Homework** | Finish Labs |    [ Finish Labs ][7-2E] | [ Finish Labs ][7-3E] + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  [ Finish Labs ][7-4E] | [Library App Weekend Lab (Annabelle)][7-5E] |
+**Homework** | Finish Labs |  Finish Labs | Finish Labs + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  Finish Labs | [Library App Weekend Lab (Annabelle)][7-5E] |
 
 
 [7-1A]: # "Rspec"
@@ -18,28 +18,28 @@
 [7-1E]: # "Finish Labs"
 
 [7-2A]: # "Intro to Rails"
-[7-2B]: # "Relationships Lesson"
-[7-2C]: # "One to Many Lab"
-[7-2D]: # "Many to Many Lab"
-[7-2E]: # "Finish Lab + Ruby Docs"
+[7-2B]: # "Controllers & Routes"
+[7-2C]: # "Layouts & Partials"
+[7-2D]: # "Rock n Rails"
+[7-2E]: # "Rock n Rails"
 
-[7-3A]: # "Controllers & Routes Lesson"
-[7-3B]: # "First Rails App Lab"
-[7-3C]: # "Layouts & Partials Lesson"
-[7-3D]: # "Rock-n-Rails Lab"
-[7-3E]: # "Sessions & Cookies Reading"
+[7-3A]: # "Bog App"
+[7-3B]: # "Asset Pipeline"
+[7-3C]: # "Validations and Errors"
+[7-3D]: # "Validations and Errors"
+[7-3E]: # "Finish Labs"
 
 [7-4A]: # "Auth"
 [7-4B]: # "More Auth"
-[7-4C]: # "Asset Pipeline"
-[7-4D]: # "Heroku Deploy"
-[7-4E]: # "Bog App"
+[7-4C]: # "Many to Many"
+[7-4D]: # "Many to Many"
+[7-4E]: # "Finish Labs"
 
-[7-5A]: # "Rails Walkthrough"
+[7-5A]: # "Review"
 [7-5B]: # "Outcomes"
 [7-5C]: # "Questions in a Hat"
-[7-5D]: # "Intro Project 2"
-[7-5E]: # "Project 2 Planning"
+[7-5D]: # "Library App"
+[7-5E]: # "Library App"
 
 
 #### Week 6 - Sinatra Single-Resource App
