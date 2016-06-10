@@ -47,7 +47,7 @@
  Time | Day 1 |   Day 2   | Day 3   | Day 4 | Day  5  |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
  **9:30am Module 1** | [Sinatra Relationships (Ben)][6-1A]  | [Username Generator (Ilias)][6-2A] | [Go Fish game (Alex)][6-3A] | Project 2  |      Presentations      |
- **10:45am Module 2** | Project 2    | Project 2  | Project 2  | Project 2      | Project 2     |
+ **10:45am Module 2** | Project 2    | Project 2  | Project 2  | Project 2      | [Project 2 Presentations](https://github.com/sf-wdi-29/student-projects/blob/master/second-projects.md)     |
  **1:30pm Module 3** |  Project 2    |   Project 2  |  Project 2   |  Project 2   | Outcomes  |
 **3:00pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
 **Homework** | Homework | Homework | Homework | Homework |  [Rails for Zombies (spend ~2  hours)](http://railsforzombies.org/levels/1) |
