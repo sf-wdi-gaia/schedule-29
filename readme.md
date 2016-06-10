@@ -50,7 +50,7 @@
  **10:45am Module 2** | Project 2    | Project 2  | Project 2  | Project 2      | Project 2     |
  **1:30pm Module 3** |  Project 2    |   Project 2  |  Project 2   |  Project 2   | Outcomes  |
 **3:00pm Module 4** |  Project 2     | Project 2   |  Project 2   | Project 2 |  Happy Hour   |
-**Homework** | Homework | Homework | Homework | Homework |  Homework |
+**Homework** | Homework | Homework | Homework | Homework |  [Rails for Zombies (spend at least 2  hours)](http://railsforzombies.org/levels/1) |
 
 
 [6-1A]: https://github.com/sf-wdi-29/sinatra-relationships-lab "Sinatra Relationships"
