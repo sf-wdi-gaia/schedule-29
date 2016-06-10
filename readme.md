@@ -8,7 +8,7 @@
  **10:45am Module 2** | [Piglatin, nums-to-words, roman numerals (Alex)][7-1B]    | [Controllers and Routes (Alex)][7-2B] | [Asset Pipeline Poem (Ben)][7-3B] | [Auth Lab (Ilias)][7-4B]       | [Outcomes (Neda)][7-5B]    |
  **1:30pm Module 3** | [Rspec and TDD (Ilias)][7-1C]   |  [Layouts and Partials (Ben)][7-2C]| [Validations and Errors (Ilias)][7-3C] | [Many to Many (Ben)][7-4C] |  [ Questions in a Hat (Ilias)][7-5C]   |
 **3:00pm Module 4** | [Rspec and TDD Lab (Ilias)][7-1D]     | [Rock n Rails][7-2D] | [Validations and Errors (Ilias)][7-3D] | [Many to Many (Ben)][7-4D] |  [Library App Weekend Lab (Annabelle)][7-5D]    |
-**Homework** | Finish Labs |    [ Finish Labs ][7-2E] | [ Finish Labs ][7-3E] + [Video: Password Hashing](https://www.youtube.com/watch?v=b4b8ktEV4Bg) |  [ Finish Labs ][7-4E] | [Library App Weekend Lab (Annabelle)][7-5E] |
+**Homework** | Finish Labs |    [ Finish Labs ][7-2E] | [ Finish Labs ][7-3E] + [Video: How not to store passwords](https://www.youtube.com/watch?v=8ZtInClXe1Q) |  [ Finish Labs ][7-4E] | [Library App Weekend Lab (Annabelle)][7-5E] |
 
 
 [7-1A]: w04/d02/m1-rspec-intro "Rspec"
