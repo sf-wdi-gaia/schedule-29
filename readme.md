@@ -13,8 +13,8 @@
 
 [7-1A]:  https://github.com/sf-wdi-29/ruby-drills "Ruby Pair Exercises"
 [7-1B]:  https://github.com/sf-wdi-29/wheel_of_fortune "OOP Wheel of Fortune" 
-[7-1C]: # "Rspec and TDD Lesson"
-[7-1D]: # "Rspec and TDD Lab"
+[7-1C]: https://github.com/sf-wdi-29/rspec "Rspec and TDD Lesson"
+[7-1D]: https://github.com/sf-wdi-29/rspec "Rspec and TDD Lab"
 [7-1E]: # "Finish Labs"
 
 [7-2A]: # "Intro to Rails"
