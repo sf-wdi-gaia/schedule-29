@@ -17,7 +17,7 @@
 [7-1D]: https://github.com/sf-wdi-29/rspec "Rspec and TDD Lab"
 [7-1E]: # "Finish Labs"
 
-[7-2A]: # "Intro to Rails"
+[7-2A]: https://github.com/sf-wdi-29/intro-to-rails "Intro to Rails"
 [7-2B]: # "Controllers & Routes"
 [7-2C]: https://github.com/sf-wdi-29/rails-layouts-and-partials "Layouts & Partials"
 [7-2D]: https://github.com/sf-wdi-29/rock-n-rails "Rock n Rails"
