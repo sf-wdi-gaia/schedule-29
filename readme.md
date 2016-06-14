@@ -18,7 +18,7 @@
 [7-1E]: # "Finish Labs"
 
 [7-2A]: https://github.com/sf-wdi-29/intro-to-rails "Intro to Rails"
-[7-2B]: # "Controllers & Routes"
+[7-2B]: https://github.com/sf-wdi-29/rails-controllers-and-routes "Controllers & Routes"
 [7-2C]: https://github.com/sf-wdi-29/rails-layouts-and-partials "Layouts & Partials"
 [7-2D]: https://github.com/sf-wdi-29/rock-n-rails "Rock n Rails"
 [7-2E]: https://github.com/sf-wdi-29/rock-n-rails "Rock n Rails"
