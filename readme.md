@@ -39,7 +39,7 @@
 [7-5B]: # "Outcomes"
 [7-5C]: https://github.com/sf-wdi-29/questions-in-a-hat/blob/master/week-07.md "Questions in a Hat"
 [7-5D]: # "Library App"
-[7-5E]: # "Library App"
+[7-5E]: https://github.com/sf-wdi-29/library-app "Library App"
 
 
 #### Week 6 - Sinatra Single-Resource App
