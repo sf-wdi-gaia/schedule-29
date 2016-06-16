@@ -29,8 +29,8 @@
 [7-3D]: https://github.com/sf-wdi-29/rails-validations-errors-lab "Validations and Errors Lab"
 [7-3E]: # "Finish Labs"
 
-[7-4A]: # "Auth"
-[7-4B]: # "More Auth"
+[7-4A]: https://github.com/sf-wdi-29/rails-auth "Auth"
+[7-4B]: https://github.com/sf-wdi-29/rails-auth "More Auth"
 [7-4C]: https://github.com/sf-wdi-29/rails-many-to-many "Many to Many"
 [7-4D]: # "Finish Labs"
 [7-4E]: # "Finish Labs"
