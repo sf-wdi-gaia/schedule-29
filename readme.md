@@ -1,4 +1,23 @@
-## Unit 2: The Server
+## Unit 3: Ruby on Rails
+
+#### Week 8 - Project Vagabond
+
+Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
+----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
+**9:30am Module 1** | Team-Client Meeting | [Stack and Queues (Brianna)][8-2A]  | [Linked Lists (Ben)][8-3A] |[ Trees (Brianna)][8-4A] | Presentations
+ **10:45am Module 2** | Project Vagabond | Project Vagabond  | Project Vagabond | Project Vagabond | Presentations
+**1:30pm Module 3** |Project Vagabond| Project Vagabond | Project Vagabond | Project Vagabond |  Project 3 Approvals
+**3:00pm Module 4** | Project Vagabond |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
+**Homework** | Project Vagabond | Project Vagabond | Project Vagabond | Project Vagabond | [Project 3][8-5E]
+
+[8-2A]: w06/d02/ "Stacks and Queues"
+
+[8-3A]: w06/d03/ "Number to Word"
+
+[8-4A]: w06/d04/string_matching/ "Pattern Search"
+
+[8-5E]: w06/d05/hmwk-readings "Homework"
+
 
 #### Week 7 - Ruby on Rails
 
