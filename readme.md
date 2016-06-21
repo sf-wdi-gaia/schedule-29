@@ -12,7 +12,7 @@ Time | Day 1                                      | Day 2                       
 
 [8-1A]: https://github.com/sf-wdi-29/project-vagabond "Project Vagabond"
 
-[8-2A]: w06/d02/ "Stacks and Queues"
+[8-2A]: https://github.com/sf-wdi-29/stacks-and-queues "Stacks and Queues"
 
 [8-3A]: w06/d03/ "Number to Word"
 
