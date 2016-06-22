@@ -14,7 +14,7 @@ Time | Day 1                                      | Day 2                       
 
 [8-2A]: https://github.com/sf-wdi-29/stacks-and-queues "Stacks and Queues"
 
-[8-3A]: w06/d03/ "Number to Word"
+[8-3A]: https://github.com/sf-wdi-29/linked-lists "Linked Lists"
 
 [8-4A]: w06/d04/string_matching/ "Pattern Search"
 
