@@ -16,7 +16,7 @@ Time | Day 1                                      | Day 2                       
 
 [8-3A]: https://github.com/sf-wdi-29/linked-lists "Linked Lists"
 
-[8-4A]: w06/d04/string_matching/ "Pattern Search"
+[8-4A]: https://github.com/sf-wdi-29/trees "Trees"
 
 [8-5E]: w06/d05/hmwk-readings "Homework"
 
