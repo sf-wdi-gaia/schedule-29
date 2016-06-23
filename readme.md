@@ -5,8 +5,8 @@
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
 ----- |--------------------------------    | ------------------------------ | ---------------------------------  | ---------------------------------   | -----------------------------------
 **9:30am Module 1** | [Team-Client Meeting][8-1A] | [Stack and Queues (Brianna)][8-2A]  | [Linked Lists (Ben)][8-3A] |[ Trees (Brianna)][8-4A] | Presentations
- **10:45am Module 2** | Project Vagabond | Project Vagabond  | Project Vagabond | Project Vagabond | Presentations
-**1:30pm Module 3** |Project Vagabond| Project Vagabond | Project Vagabond | Project Vagabond |  Project 3 Approvals
+ **10:45am Module 2** | Project Vagabond | Project Vagabond  | Project Vagabond | Project Vagabond | Outcomes
+**1:30pm Module 3** |Project Vagabond| Project Vagabond | Project Vagabond | Project Vagabond |  Project 3 Pitches
 **3:00pm Module 4** | Project Vagabond |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
 **Homework** | Project Vagabond | Project Vagabond | Project Vagabond | Project Vagabond | [Project 3][8-5E]
 
