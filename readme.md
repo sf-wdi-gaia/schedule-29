@@ -8,7 +8,7 @@ Time | Day 1                                      | Day 2                       
  **10:45am Module 2** | Project Vagabond | Project Vagabond  | Project Vagabond | Project Vagabond | Outcomes
 **1:30pm Module 3** |Project Vagabond| Project Vagabond | Project Vagabond | Project Vagabond |  Project 3 Pitches
 **3:00pm Module 4** | Project Vagabond |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
-**Homework** | Project Vagabond | Project Vagabond | Project Vagabond | Come up with a project 3 idea | [Project 3][8-5E]
+**Homework** | Project Vagabond | Project Vagabond | Project Vagabond | [Prepare Project 3 Pitch][8-4E] | [Project 3][8-5E]
 
 [8-1A]: https://github.com/sf-wdi-29/project-vagabond "Project Vagabond"
 
@@ -17,6 +17,8 @@ Time | Day 1                                      | Day 2                       
 [8-3A]: https://github.com/sf-wdi-29/linked-lists "Linked Lists"
 
 [8-4A]: https://github.com/sf-wdi-29/trees "Trees"
+
+[8-4E]: #
 
 [8-5E]: w06/d05/hmwk-readings "Homework"
 
