@@ -8,7 +8,7 @@ Time | Day 1                                      | Day 2                       
  **10:45am Module 2** | Project Vagabond | Project Vagabond  | Project Vagabond | Project Vagabond | Outcomes
 **1:30pm Module 3** |Project Vagabond| Project Vagabond | Project Vagabond | Project Vagabond |  Project 3 Pitches
 **3:00pm Module 4** | Project Vagabond |  Project Vagabond |  Project Vagabond |  Project Vagabond | Project 3 Approvals
-**Homework** | Project Vagabond | Project Vagabond | Project Vagabond | Project Vagabond | [Project 3][8-5E]
+**Homework** | Project Vagabond | Project Vagabond | Project Vagabond | Come up with a project 3 idea | [Project 3][8-5E]
 
 [8-1A]: https://github.com/sf-wdi-29/project-vagabond "Project Vagabond"
 
