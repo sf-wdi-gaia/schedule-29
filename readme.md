@@ -18,9 +18,9 @@ Time | Day 1                                      | Day 2                       
 
 [8-4A]: https://github.com/sf-wdi-29/trees "Trees"
 
-[8-4E]: #
+[8-4E]: https://github.com/sf-wdi-29/project-03/blob/master/lightning-pitch.md "Project 3 Pitch"
 
-[8-5E]: w06/d05/hmwk-readings "Homework"
+[8-5E]: https://github.com/sf-wdi-29/project-03 "Project 3"
 
 
 #### Week 7 - Ruby on Rails
