@@ -5,8 +5,8 @@
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:30am Module 1** | Project 3 | CS Topics: [String Matching][9-1A] (Alex) | CS Topics: [String Matching Pt 2][9-1A] (Alex) | CS Topics: [Auth Math Concepts][9-4B] (Ben) | [Project 3 Wrap-up][9-5A]
-**10:30am Module 2** | Project 3 | Project 3 | Project 3 | Project 3 | [Project 3 Presentations][9-5B] | 
-**1:30pm Module 3** | [Unit Testing with rspec-rails][9-1C] (Brianna) | Project 3 | Project 3 | Project 3 | [][9-5C] |
+**10:30am Module 2** | Project 3 | Project 3 | Project 3 | Project 3 | [Project 3 Presentations][9-5B] / 11:30 Outcomes | 
+**1:30pm Module 3** | [Unit Testing with rspec-rails][9-1C] (Brianna) | Project 3 | Project 3 | Project 3 | [Presentations][9-5C] |
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | Project 3 | [][9-5C] |
 **Homework** | Project 3 | Project 3 | Project 3 | Project 3 | [Angular Reading][9-5E]
 
