@@ -1,5 +1,25 @@
 ## Unit 3: Ruby on Rails
 
+#### Week 9: Rails Group Projects
+
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:30am Module 1** | Project 3 | CS Topics: [String Matching][9-1A] (Alex) | CS Topics: [String Matching Pt 2][9-1A] (Alex) | CS Topics: [Auth Math Concepts][9-4B] (Ben) | [Project 3 Wrap-up][9-5A]
+**10:30am Module 2** | Project 3 | Project 3 | Project 3 | Project 3 | [Project 3 Presentations][9-5B] | 
+**1:30pm Module 3** | Project 3 | Project 3 | Project 3 | Project 3 | [][9-5C] |
+**3:00pm Module 4** | Project 3 | Project 3 | Project 3 | Project 3 | [][9-5C] |
+**Homework** | Project 3 | Project 3 | Project 3 | Project 3 | [Angular Reading][9-5E]
+
+[9-1A]: # "String Sorting"
+[9-2A]: w09/d02/m1-linked-lists/ "Linked Lists"
+[9-3A]: w09/d03/m1-trees "Trees"
+[9-4A]: w09/d03/m2-dfs-bfs "Searching Trees"
+[9-4B]: w09/d03/m3-tries "Tries"
+[9-5A]: # "Project 3 Finishing Touches"
+[9-5B]: # "Project 3 Presentations"
+[9-5C]: # "Outcomes"
+[9-5E]: https://docs.angularjs.org/guide/introduction "Angular Reading"
+
 #### Week 8 - Project Vagabond
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
