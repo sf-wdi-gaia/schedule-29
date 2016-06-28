@@ -10,7 +10,7 @@ Time | Day 1                                 | Day 2                            
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | Project 3 | [][9-5C] |
 **Homework** | Project 3 | Project 3 | Project 3 | Project 3 | [Angular Reading][9-5E]
 
-[9-1A]: # "String Sorting"
+[9-1A]: https://github.com/sf-wdi-29/string-matching "String Sorting"
 [9-1C]: https://github.com/sf-wdi-29/rspec-rails-testing "Unit Testing with rspec-rails"
 [9-2A]: w09/d02/m1-linked-lists/ "Linked Lists"
 [9-3A]: w09/d03/m1-trees "Trees"
