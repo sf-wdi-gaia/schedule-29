@@ -15,7 +15,7 @@ Time | Day 1                                 | Day 2                            
 [9-2A]: w09/d02/m1-linked-lists/ "Linked Lists"
 [9-3A]: w09/d03/m1-trees "Trees"
 [9-4A]: w09/d03/m2-dfs-bfs "Searching Trees"
-[9-4B]: w09/d03/m3-tries "Tries"
+[9-4B]: https://github.com/sf-wdi-29/russian-postal-system-puzzle "Russian Postal Puzzle"
 [9-5A]: # "Project 3 Finishing Touches"
 [9-5B]: # "Project 3 Presentations"
 [9-5C]: # "Outcomes"
