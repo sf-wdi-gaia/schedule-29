@@ -8,7 +8,7 @@ Time | Day 1                                 | Day 2                            
 **10:30am Module 2** | Project 3 | Project 3 | Project 3 | Project 3 | [Project 3 Presentations][9-5B] / 11:30 Outcomes | 
 **1:30pm Module 3** | [Unit Testing with rspec-rails][9-1C] (Brianna) | Project 3 | Project 3 | Project 3 | [Presentations][9-5C] |
 **3:00pm Module 4** | Project 3 | Project 3 | Project 3 | Project 3 | [][9-5C] |
-**Homework** | Project 3 | Project 3 | Project 3 | Project 3 | [Angular Reading][9-5E]
+**Homework** | Project 3 | Project 3 | Project 3 | Project 3 | [Look over the Angular Documentation][9-5E] [Check out this blog][9-5F] [Check out this Lab][9-5G]
 
 [9-1A]: https://github.com/sf-wdi-29/string-matching "String Sorting"
 [9-1C]: https://github.com/sf-wdi-29/rspec-rails-testing "Unit Testing with rspec-rails"
@@ -20,6 +20,8 @@ Time | Day 1                                 | Day 2                            
 [9-5B]: # "Project 3 Presentations"
 [9-5C]: # "Outcomes"
 [9-5E]: https://docs.angularjs.org/guide/introduction "Angular Reading"
+[9-5F]: http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with
+[9-5G]: https://github.com/SF-WDI-LABS/intro_angular_challenges
 
 #### Week 8 - Project Vagabond
 
