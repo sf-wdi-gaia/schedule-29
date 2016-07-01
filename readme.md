@@ -1,3 +1,48 @@
+## Unit 4: Full Stack w/ Angular
+
+#### Week 10: Agnostic Front End (Angular)
+
+Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:17am Module 1** | July 4th | [Intro to Angular (Ilias)][10-1A] | [Angular Hangman (Ilias)][10-2A] | [Routing (Ben)][10-3A] | [Review][10-5A] |
+**10:45am Module 2** | Bldg Closed |[Angular LAB (Ilias)][10-1B] | [Angular Hangman (Ilias)][10-2B] | [Wine App (Ben)][10-3B] | [Questions in a Hat (Group)][10-5B]
+**1:30pm Module 3** | |[Directives (Ben)][10-1C] | [$http and promises (Alex)][10-2C] | [$resource (Alex)][10-3C] | [Outcomes][10-5C]
+**3:00pm Module 4** | |[Movie App (Ben)][10-1D] | [$http LAB (Alex)][10-2D] | [Book App (Alex)][10-3D] | [Rapid Prototyping][10-5D]
+**Homework** | |[Movie App (cont'd)][10-1E] | [Reading: ui-router][10-2E] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research](/w10/d05/lightning-talks.md)
+
+
+[10-1A]: # "Intro to Angular"
+[10-1B]: # "Intro to Angular Lab"
+[10-1C]: # "Angular Directives"
+[10-1D]: # "Movie App"
+[10-1E]: # "Movie App II"
+
+[10-2A]: # "Angular Hangman"
+[10-2B]: # "Angular Hangman"
+[10-2C]: # "$http and promises"
+[10-2D]: # "$http lab"
+[10-2E]: # "ui-router"
+
+[10-3A]: # "Routing"
+[10-3B]: # "Wine App"
+[10-3C]: # "ngResource"
+[10-3D]: # "Book App"
+[10-3E]: # "reading"
+
+[10-4A]: # "MEAN Stack"
+[10-4B]: # "MEAN ToDo"
+[10-4C]: # "Animations"
+[10-4D]: # "Firebase"
+[10-4E]: # "Animations Readme"
+
+[10-5A]: # "Review"
+[10-5B]: # "Rapid Prototyping"
+[10-5C]: # "Outcomes"
+[10-5D]: # "Outcomes"
+[10-5E]: # "Weekend Lab"
+
+
+
 ## Unit 3: Ruby on Rails
 
 #### Week 9: Rails Group Projects
