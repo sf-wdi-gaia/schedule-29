@@ -10,8 +10,8 @@ Time | Day 1                           | Day 2                                  
 **3:00pm Module 4** | |[Movie App (Ben)][10-1D] | [$http LAB (Alex)][10-2D] | [Book App (Alex)][10-3D] | [Rapid Prototyping][10-5D]
 **Homework** | |[Movie App (cont'd)][10-1E] | [Reading: ui-router][10-2E] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
 
-[10-1A]: # "Intro to Angular"
-[10-1B]: # "Intro to Angular Lab"
+[10-1A]: https://github.com/sf-wdi-29/angular-intro "Intro to Angular"
+[10-1B]: https://github.com/sf-wdi-29/angular-intro "Intro to Angular Lab"
 [10-1C]: # "Angular Directives"
 [10-1D]: # "Movie App"
 [10-1E]: # "Movie App II"
