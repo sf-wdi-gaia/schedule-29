@@ -8,7 +8,7 @@ Time | Day 1                           | Day 2                                  
 **10:45am Module 2** | July 4th |[Angular LAB (Ilias)][10-1B] | [Angular Hangman (Ilias)][10-2B] | [Wine App (Ben)][10-3B] | [Questions in a Hat (Group)][10-5B]
 **1:30pm Module 3** | July 4th |[Directives Lesson (Ben)][10-1C] | [$http and promises (Alex)][10-2C] | [$resource (Alex)][10-3C] | [Outcomes][10-5C]
 **3:00pm Module 4** | July 4th |[Directives Lab (Ben)][10-1D] | [$http LAB (Alex)][10-2D] | [Book App (Alex)][10-3D] | [Rapid Prototyping][10-5D]
-**Homework** | July 4th |[Movie App (cont'd)][10-1E] | [Reading: ui-router][10-2E] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
+**Homework** | July 4th |[Finish Labs][10-1E] | [Reading: ui-router][10-2E] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
 
 [10-1A]: https://github.com/sf-wdi-29/angular-intro "Intro to Angular"
 [10-1B]: https://github.com/sf-wdi-29/angular-intro "Intro to Angular Lab"
