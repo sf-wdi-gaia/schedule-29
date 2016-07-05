@@ -4,8 +4,8 @@
 
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
-**9:17am Module 1** | July 4th | [Intro to Angular (Ilias)][10-1A] | [Angular Hangman (Ilias)][10-2A] | [Routing (Ben)][10-3A] | [Review][10-5A] |
-**10:45am Module 2** | July 4th |[Angular LAB (Ilias)][10-1B] | [Angular Hangman (Ilias)][10-2B] | [Wine App (Ben)][10-3B] | [Questions in a Hat (Group)][10-5B]
+**9:17am Module 1** | July 4th | [Intro to Angular (Ilias)][10-1A] | [Angular Hangman (Ilias)][10-2A] | [Routing (Ben)][10-3A] | [Firebase (Ilias)][10-5A] |
+**10:45am Module 2** | July 4th |[Angular LAB (Ilias)][10-1B] | [Angular Hangman (Ilias)][10-2B] | [Wine App (Ben)][10-3B] | [Review][10-5B]
 **1:30pm Module 3** | July 4th |[Directives Lesson (Ben)][10-1C] | [$http and promises (Alex)][10-2C] | [$resource (Alex)][10-3C] | [Outcomes][10-5C]
 **3:00pm Module 4** | July 4th |[Directives Lab (Ben)][10-1D] | [$http LAB (Alex)][10-2D] | [Book App (Alex)][10-3D] | [Rapid Prototyping][10-5D]
 **Homework** | July 4th |[Finish Labs][10-1E] | [Reading: ui-router][10-2E] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
@@ -34,8 +34,8 @@ Time | Day 1                           | Day 2                                  
 [10-4D]: # "Firebase"
 [10-4E]: # "Animations Readme"
 
-[10-5A]: # "Review"
-[10-5B]: # "Questions in a Hat"
+[10-5A]: https://github.com/sf-wdi-29/ng-firebase "Firebase"
+[10-5B]: # "Review / Questions in a Hat"
 [10-5C]: # "Outcomes"
 [10-5D]: # "Rapid Prototyping"
 [10-5E]: # "Rapid Prototype Weekend Lab"
