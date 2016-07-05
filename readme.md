@@ -16,8 +16,8 @@ Time | Day 1                           | Day 2                                  
 [10-1D]: https://github.com/sf-wdi-29/angular-directives-lab "Directives Lab"
 [10-1E]: # "Homework"
 
-[10-2A]: # "Angular Hangman"
-[10-2B]: # "Angular Hangman"
+[10-2A]: https://github.com/sf-wdi-29/ng-hangman "Angular Hangman"
+[10-2B]: https://github.com/sf-wdi-29/ng-hangman "Angular Hangman"
 [10-2C]: # "$http and promises"
 [10-2D]: # "$http lab"
 [10-2E]: # "ui-router"
