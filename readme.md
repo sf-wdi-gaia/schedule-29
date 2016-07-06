@@ -18,8 +18,8 @@ Time | Day 1                           | Day 2                                  
 
 [10-2A]: https://github.com/sf-wdi-29/ng-hangman "Angular Hangman"
 [10-2B]: https://github.com/sf-wdi-29/ng-hangman "Angular Hangman"
-[10-2C]: # "$http and promises"
-[10-2D]: # "$http lab"
+[10-2C]: https://github.com/sf-wdi-29/http-workshop "$http and promises"
+[10-2D]: https://github.com/sf-wdi-29/http-lab "$http lab"
 [10-2E]: # "ui-router"
 
 [10-3A]: # "Routing"
