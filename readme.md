@@ -8,7 +8,7 @@ Time | Day 1                           | Day 2                                  
 **10:45am Module 2** | July 4th |[Angular LAB (Ilias)][10-1B] | [Angular Hangman (Ilias)][10-2B] | [Wine App (Ben)][10-3B] | [Review][10-5B]
 **1:30pm Module 3** | July 4th |[Directives Lesson (Ben)][10-1C] | [$http and promises (Alex)][10-2C] | [$resource (Alex)][10-3C] | [Outcomes][10-5C]
 **3:00pm Module 4** | July 4th |[Directives Lab (Ben)][10-1D] | [$http LAB (Alex)][10-2D] | [Book App (Alex)][10-3D] | [Rapid Prototyping][10-5D]
-**Homework** | July 4th |[Finish Labs][10-1E] | [Reading: ui-router][10-2E] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
+**Homework** | July 4th |[Finish Labs][10-1E] | Readings:[ui-router vs ngRoute #1][10-2E] + [#2][10-2F] + [#3][10-2G] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
 
 [10-1A]: https://github.com/sf-wdi-29/angular-intro "Intro to Angular"
 [10-1B]: https://github.com/sf-wdi-29/angular-intro "Intro to Angular Lab"
@@ -20,7 +20,9 @@ Time | Day 1                           | Day 2                                  
 [10-2B]: https://github.com/sf-wdi-29/ng-hangman "Angular Hangman"
 [10-2C]: https://github.com/sf-wdi-29/http-workshop "$http and promises"
 [10-2D]: https://github.com/sf-wdi-29/http-lab "$http lab"
-[10-2E]: # "ui-router"
+[10-2E]: http://stackoverflow.com/questions/21023763/angularjs-difference-between-angular-route-and-angular-ui-router "ui-router vs ngRoute"
+[10-2F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
+[10-2G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
 [10-3A]: # "Routing"
 [10-3B]: # "Wine App"
