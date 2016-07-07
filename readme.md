@@ -27,7 +27,7 @@ Time | Day 1                           | Day 2                                  
 [10-3A]: https://github.com/sf-wdi-29/angular_routing_lab "Routing"
 [10-3B]: https://github.com/sf-wdi-29/angular_routing_lab "Wine App"
 [10-3C]: https://github.com/sf-wdi-29/angular-resource "ngResource"
-[10-3D]: # "Book App"
+[10-3D]: https://github.com/sf-wdi-29/angular_book_app "Book App"
 [10-3E]: # "reading"
 
 [10-4A]: # "MEAN Stack"
