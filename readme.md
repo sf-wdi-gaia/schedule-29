@@ -24,8 +24,8 @@ Time | Day 1                           | Day 2                                  
 [10-2F]: https://prezi.com/dfwwmbkk2-ac/ng-route-vs-ui-router/ "ui-router vs ngRoute"
 [10-2G]: http://www.amasik.com/angularjs-ngroute-vs-ui-router/ "ui-router vs ngRoute"
 
-[10-3A]: # "Routing"
-[10-3B]: # "Wine App"
+[10-3A]: https://github.com/sf-wdi-29/angular_routing_lab "Routing"
+[10-3B]: https://github.com/sf-wdi-29/angular_routing_lab "Wine App"
 [10-3C]: # "ngResource"
 [10-3D]: # "Book App"
 [10-3E]: # "reading"
