@@ -5,8 +5,8 @@
 Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:17am Module 1** | July 4th | [Intro to Angular (Ilias)][10-1A] | [Angular Hangman (Ilias)][10-2A] | [Routing (Ben)][10-3A] | [Firebase (Ilias)][10-5A] |
-**10:45am Module 2** | July 4th |[Angular LAB (Ilias)][10-1B] | [Angular Hangman (Ilias)][10-2B] | [Wine App (Ben)][10-3B] | [Review][10-5B]
-**1:30pm Module 3** | July 4th |[Directives Lesson (Ben)][10-1C] | [$http and promises (Alex)][10-2C] | [$resource (Alex)][10-3C] | [Outcomes][10-5C]
+**10:45am Module 2** | July 4th |[Angular LAB (Ilias)][10-1B] | [Angular Hangman (Ilias)][10-2B] | [Wine App (Ben)][10-3B] | [Outcomes][10-5B]
+**1:30pm Module 3** | July 4th |[Directives Lesson (Ben)][10-1C] | [$http and promises (Alex)][10-2C] | [$resource (Alex)][10-3C] | [Review][10-5C]
 **3:00pm Module 4** | July 4th |[Directives Lab (Ben)][10-1D] | [$http LAB (Alex)][10-2D] | [Book App (Alex)][10-3D] | [Rapid Prototyping][10-5D]
 **Homework** | July 4th |[Finish Labs][10-1E] | ui-router vs ngRoute readings: [#1][10-2E] + [#2][10-2F] + [#3][10-2G] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research][10-5F]
 
