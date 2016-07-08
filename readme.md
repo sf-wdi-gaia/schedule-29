@@ -5,7 +5,7 @@
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
 ----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
 **9:17am Module 1** | [Science Fair (Group)][11-1A] |[Rangular (Alex)][11-3A]  | [Lightning Talks][11-2C]  | [Project 4 Intro][11-5A] | Project 4 |
-**10:45am Module 2** | [ngAnimate (Ben)][10-4A] |  [Rangular Lab (Alex)][11-3B] | [Lightning Talks][11-2C] | Planning | [Outcomes][11-5B] |
+**10:45am Module 2** | [ngAnimate (Ben)][10-4A] |  [Rangular Lab (Alex)][11-3B] | [Lightning Talks][11-2C] | Planning | Outcomes |
 **1:30pm Module 3** | [Nice MEAN App (Ben)][11-1B] | [React (Ilias)][11-2A] | [Lightning Talks][11-2C] | Approvals | Project 4 | [Approvals][11-5C] |
 **3:00pm Module 4** | [Nice MEAN Lab][11-1C] | [React LAB (Ilias)][11-2A] | [Redux (Ilias)][11-4A] | Approvals | Project 4 | [Outcomes][11-5D] |
 **Homework** |  [Lightning Talks Prep][11-2C] | [Lightning Talks Prep][11-2C] | Project Ideation | Project 4 | Project 4 |
