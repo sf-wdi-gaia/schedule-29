@@ -1,4 +1,99 @@
-## Unit 4: Full Stack w/ Angular
+## Unit 4: Client-side Frameworks
+
+#### Week 11: Decoupled Client / Server & More
+
+Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:17am Module 1** | [Science Fair (Group)][11-1A] |[Rangular (Alex)][11-3A]  | [Lightning Talks][11-2C]  | [Project 4 Intro][11-5A] | Project 4 |
+**10:45am Module 2** | [ngAnimate (Ben)][10-4A] |  [Rangular Lab (Alex)][11-3B] | [Lightning Talks][11-2C] | Planning | [Outcomes][11-5B] |
+**1:30pm Module 3** | [Nice MEAN App (Ben)][11-1B] | [React (Ilias)][11-2A] | [Lightning Talks][11-2C] | Approvals | Project 4 | [Approvals][11-5C] |
+**3:00pm Module 4** | [Nice MEAN Lab][11-1C] | [React LAB (Ilias)][11-2A] | [Redux (Ilias)][11-4A] | Approvals | Project 4 | [Outcomes][11-5D] |
+**Homework** |  [Lightning Talks Prep][11-2C] | [Lightning Talks Prep][11-2C] | Project Ideation | Project 4 | Project 4 |
+
+[11-1A]: # " "
+[11-1B]: # "JWT Readings"
+[11-1C]: # "Angular Auth Lesson"
+[11-1D]: # "Angular Auth Lab"
+[11-1E]: # " "
+
+[11-2A]: # "React Lesson"
+[11-2C]: https://github.com/sf-wdi-29/lighting-talks "Lightning Talks"
+[11-2D]: # " "
+[11-2E]: # " "
+
+[11-3A]: # "Rangular Lesson"
+[11-3B]: # "Rangular Lab"
+[11-3C]: # " "
+[11-3D]: # " "
+[11-3E]: # " "
+
+[11-4A]: # " "
+[11-4B]: # " "
+[11-4C]: # "Project 4"
+[11-4D]: # " "
+[11-4E]: # " "
+
+[11-5A]: # " "
+[11-5B]: # " "
+[11-5C]: # " "
+[11-5D]: # " "
+[11-5E]: # " "
+
+
+#### Week 10: Angular
+
+Time | Day 1                           | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
+----- | --------------------------------      | -------------------------------------               | ------------------------------------               | ----------------------------------------  | -----------------------------------
+**9:00am Module 1** | July 4th | [Intro to Angular (Ilias)][10-1A] | [Angular Hangman (Ilias)][10-2A] | [Routing (Ben)][10-3A] | [Review][10-5A] |
+**10:30am Module 2** | Bldg Closed |[Angular LAB (Ilias)][10-1B] | [Angular Hangman (Ilias)][10-2B] | [Wine App (Ben)][10-3B] | [Questions in a Hat (Group)][10-5B]
+**1:30pm Module 3** | |[Directives (Ben)][10-1C] | [$http and promises (Alex)][10-2C] | [$resource (Alex)][10-3C] | [Outcomes][10-5C]
+**3:00pm Module 4** | |[Movie App (Ben)][10-1D] | [$http LAB (Alex)][10-2D] | [Book App (Alex)][10-3D] | [Rapid Prototyping][10-5D]
+**Homework** | |[Movie App (cont'd)][10-1E] | [Reading: ui-router][10-2E] | [Finish Labs][10-3E] | [Rapid Prototyping][10-5E] and [Lightning Talk Research](/w10/d05/lightning-talks.md)
+
+
+
+
+[10-1A]: w10/d01/m1-angular-intro/ "Intro to Angular"
+[10-1B]: w10/d01/m1-angular-intro/ "Intro to Angular Lab"
+[10-1C]: w10/d01/m3-angular-directives/ "Angular Directives"
+[10-1D]: w10/d01/m4-intro-angular-lab/ "Movie App"
+[10-1E]: # "Movie App II"
+
+[10-2A]: w10/d02/m1-ng-hangman "Angular Hangman"
+[10-2B]: w10/d02/m1-ng-hangman "Angular Hangman"
+[10-2C]: w10/d02/m3-http "$http and promises"
+[10-2D]: w10/d02/m4-http-lab "$http lab"
+[10-2E]: w10/readings/ui-router.md "ui-router"
+
+[10-3A]: w10/d03/m1-m2-routing-lab/ "Routing"
+[10-3B]: w10/d03/m1-m2-routing-lab/ "Wine App"
+[10-3C]: w10/d03/m3-angular-resource/ "ngResource"
+[10-3D]: https://github.com/sf-wdi-26/angular_book_app "Book App"
+[10-3E]: # "reading"
+
+[10-4A]: w10/d04/m1-intro-MEAN/ "MEAN Stack"
+[10-4B]: https://github.com/sf-wdi-26/mean_todo "MEAN ToDo"
+[10-4C]: w10/d04/m3-animate/ "Animations"
+[10-4D]: w10/d04/m4-ng-firebase "Firebase"
+[10-4E]: https://github.com/sf-wdi-26/modules/blob/master/w10/d04/hw-ui-and-animations/readme.md
+
+[10-5A]: # "Review"
+[10-5B]: # "Rapid Prototyping"
+[10-5C]: # "Outcomes"
+[10-5D]: w10/d05/m4-rapid-prototype "Outcomes"
+[10-5E]: w10/d05/m4-rapid-prototype "Weekend Lab"
+
+#### Daily Schedule Overview
+
+Time  | Monday - Thursday  | Friday
+----- | ------------------ | -----  
+9:17  | Module 1           | Review
+10:45 | Module 2           | Outcomes
+12:30 | Lunch              | Lunch
+1:30  | Module 3           | Review
+3:00  | Module 4           | Begin Weekend Lab
+4:30  | One-on-ones        | Rest
+
 
 #### Week 10: Agnostic Front End (Angular)
 
