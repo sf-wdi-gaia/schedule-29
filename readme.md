@@ -41,7 +41,7 @@ Time | Day 1                           | Day 2                                  
 [10-5C]: https://github.com/sf-wdi-29/questions-in-a-hat/blob/master/week-10.md "Review / Questions in a Hat"
 [10-5D]: https://github.com/sf-wdi-29/rapid-prototype/blob/master/readme.md "Rapid Prototyping"
 [10-5E]: https://github.com/sf-wdi-29/rapid-prototype/blob/master/readme.md "Rapid Prototype Weekend Lab"
-[10-5F]: # "Lightning Talk Research"
+[10-5F]: https://github.com/sf-wdi-29/lighting-talks "Lightning Talk Research"
 
 
 
