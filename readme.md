@@ -24,8 +24,8 @@ Time | Day 1                                 | Day 2                            
 
 [11-3A]: # "Rangular Lesson"
 [11-3B]: # "Rangular Lab"
-[11-3C]: https://github.com/sf-wdi-29/lighting-talks " "
-[11-3D]: # " "
+[11-3C]: https://github.com/sf-wdi-29/lighting-talks "Lighting Talks"
+[11-3D]: https://github.com/sf-wdi-29/redux "Redux"
 [11-3E]: # " "
 
 [11-4A]: # " "
