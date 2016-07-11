@@ -10,6 +10,8 @@ Time | Day 1                                 | Day 2                            
 **3:00pm Module 4** | [Not-so-MEAN Angular][11-1D] | [React (Ilias)][11-2D] | [Redux (Ilias)][11-3D] | Approvals | Project 4 | [Outcomes][11-5D] |
 **Homework** |  [Lightning Talks Prep][11-1E] | [Lightning Talks Prep][11-2E] | Project Ideation | Project 4 | Project 4 |
 
+#### Extra Lab for Auth in Angular: [angular-auth-satellizer](https://github.com/sf-wdi-29/angular-auth-satellizer) 
+
 [11-1A]: # "Science Fair"
 [11-1B]: https://github.com/sf-wdi-29/angular-animations-intro "ngAnimate"
 [11-1C]: https://github.com/sf-wdi-29/express-flashcards-api "Not-so-MEAN Express API"
