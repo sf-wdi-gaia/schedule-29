@@ -20,8 +20,8 @@ Time | Day 1                                 | Day 2                            
 
 [11-2A]: https://github.com/sf-wdi-29/rails-api-lesson/blob/master/readme.md "Rails API mode"
 [11-2B]: https://github.com/sf-wdi-29/rails-api-lab "Rangular"
-[11-2C]: https://github.com/sf-wdi-29/react "React"
-[11-2D]: https://github.com/sf-wdi-29/gulp "Gulp"
+[11-2C]: https://github.com/sf-wdi-29/gulp "Gulp"
+[11-2D]: https://github.com/sf-wdi-29/react "React"
 [11-2E]: # " "
 
 [11-3A]: # "Rangular Lesson"
