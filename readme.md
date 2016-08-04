@@ -125,8 +125,6 @@ Time | Day 1                           | Day 2                                  
 [10-5E]: https://github.com/sf-wdi-29/rapid-prototype/blob/master/readme.md "Rapid Prototype Weekend Lab"
 [10-5F]: https://github.com/sf-wdi-29/lighting-talks "Lightning Talk Research"
 
-
-
 ## Unit 3: Ruby on Rails
 
 #### Week 9: Rails Group Projects
@@ -216,6 +214,7 @@ Time | Day 1                                      | Day 2                       
 [7-5D]: https://github.com/sf-wdi-29/library-app "Library App"
 [7-5E]: https://github.com/sf-wdi-29/library-app "Library App"
 
+## Unit 2: RESTful Applications
 
 #### Week 6 - Sinatra Single-Resource App
 
@@ -241,8 +240,6 @@ Extra Resources:
 * [Debugging Ruby Applications](https://github.com/sf-wdi-29/debugging-ruby-applications)
 * [Seeding a Sinatra App](https://github.com/sf-wdi-29/sinatra-app-seed/blob/master/readme.md)
 * [Front-end Assets](https://github.com/sf-wdi-29/front-end-assets/blob/master/readme.md)
-
-
 
 #### Week 5 - Ruby and Sinatra
 
