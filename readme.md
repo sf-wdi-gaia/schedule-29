@@ -1,3 +1,5 @@
+## Unit 4: Client-side Frameworks
+
 #### Week 12: Project 4
 
 Time | Day 1                                 | Day 2                                               | Day 3                                              | Day 4                                     | Day 5
@@ -37,8 +39,6 @@ Time | Day 1                                 | Day 2                            
 [12-5C]: # " "
 [12-5D]: # " "
 [12-5E]: # " "
-
-## Unit 4: Client-side Frameworks
 
 #### Week 11: Decoupled Client / Server & More
 
