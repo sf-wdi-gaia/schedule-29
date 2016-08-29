@@ -1,5 +1,5 @@
-#This Schedule is Now Deprecated
-To see the latest version of any material change any link below to `sf-wdi-gaia` rather than `sf-wdi-29`.
+#!!This Schedule is Now Deprecated!!
+To see the latest version of any material, change any link below to `sf-wdi-gaia` rather than `sf-wdi-29`.
 
 ## Unit 4: Client-side Frameworks
 
